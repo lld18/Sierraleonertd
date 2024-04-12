@@ -5,7 +5,9 @@
 
 1.1 Projects overview
 +++++++++++++++++++++++
+The creation of the Sierra Leone OSeMOSYS and MAED models started as part of an effort from Climate Compatible Growth, at the invitation of the Presidential Initiative on Climate Change, Renewable Energy and Food Security (PI-CREF), to capacitate the Planning Unit in the Sierra Leone Ministry of Energy (MoE).
 
+The project consisted of a team of researchers from CCG and the MoE's Planning Unit. Through the co-creation of an Energy System Optimisation Model (ESOM), skills were shared and transferred between the members of the team allowing for the continuation of energy modelling in Sierra Leone.
 
 
 1.2 Motivation and problem statement

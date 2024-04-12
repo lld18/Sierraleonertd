@@ -9,6 +9,7 @@ The creation of the Sierra Leone OSeMOSYS and MAED models started as part of an 
 
 The project consisted of a team of researchers from CCG and the MoE's Planning Unit. Through the co-creation of an Energy System Optimisation Model (ESOM), skills were shared and transferred between the members of the team allowing for the continuation of energy modelling in Sierra Leone.
 
+The goal of the team was to create an ESOM that focussed on the power sector in Sierra Leone and the costs and benefits, from a techno-economic perspecive, of various hydropower expansion plans in the country. In order to do this, a demand forecasting model, using the Model for the Analysis of Energy Demand (MAED), and central capacity expansion model, using the Open-Source Energy Modelling System (OSeMOSYS), were used. In order to validate the findings of the OSeMOSYS model, the Robust Decision Making framework was employed.
 
 1.2 Motivation and problem statement
 +++++++++
@@ -18,7 +19,6 @@ The project consisted of a team of researchers from CCG and the MoE's Planning U
 
 1.4 The Open Source energy Modelling System (OSeMOSYS)
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
 OSeMOSYS is an optimization software for long-term energy planning. It is an open source model structured in blocks of functionality that allows easy modifications to the code, providing a great flexibility for the creative process of the solution. The models that are built in OSeMOSYS minimize the total cost of the system for a certain period of time, defining the configuration of the supply system, considering some restrictions on activity, capacity, and emissions of technologies :cite:`HOWELLS20115850`. This is shown in the following equation: 
 
 .. math::

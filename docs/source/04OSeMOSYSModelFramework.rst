@@ -1,7 +1,7 @@
-2. Energy model: Framework 
+4. OSeMOSYS model: framework 
 =======================================
 
-This documentation has been created in order to provide an overview of OSeMOSYS-CR. Therefore, it presents the model structure, and gives a synthesis of the key assumptions of the model, regarding the numerical inputs used for the sets, parameters, and scenario building. First, in this section, we give an insight to the general framework of the model.
+This documentation has been created in order to provide an overview of OSeMOSYS-SL. Therefore, it presents the model structure, and gives a synthesis of the key assumptions of the model, regarding the numerical inputs used for the sets, parameters, and scenario building. First, in this section, we give an insight to the general framework of the model.
 
 2.1 General model structure 
 +++++++++

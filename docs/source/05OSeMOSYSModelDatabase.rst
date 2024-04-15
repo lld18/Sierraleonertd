@@ -1,4 +1,4 @@
-3. Energy model: Data inputs
+5. OSeMOSYS model: database
 =======================================
 This section presents the main databases explored for building OSeMOSYS-SL, and the way the information was processed in order to introduce it to the model. 
 

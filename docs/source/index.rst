@@ -16,10 +16,12 @@ Contents
 
    00Abbreviations
    01Introduction
-   02EnergyModelFramework
-   03EnergyModelDatabase
-   04Scenarios
-   05References
+   02MAEDModelFramework
+   03MAEDModelDatabase
+   04OSeMOSYSModelFramework
+   05OSeMOSYSmodelDatabase
+   06OSeMOSYSScenarios
+   07References
 
 
 

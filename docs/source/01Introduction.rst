@@ -13,18 +13,23 @@ The goal of the team was to create an ESOM that focussed on the power sector in 
 
 1.2 Motivation and problem statement
 +++++++++
-Sierra Leone's power sector currently relies heavily on hydropower to meet demand during the wet season. The 50 MW Bumbuna hydropower facility provides the majority of this generating capacity. However, during the dry season, due to a small reservoir, the capacity of Bumbuna is reduced to roughly 7 MW. Consequently, fossil fuel powered generators are relied upon during the dry season. A key contributor is the 66 MW Karpowership Heavy Fuel Oil (HFO) power barge. Asside from the nagetive environmental and social impacts of burning HFO for power generation, Karpowership has resulted in roughly $40 million of unpaid arreers.
+Sierra Leone's power sector currently relies heavily on hydropower to meet demand during the wet season. The 50 MW Bumbuna hydropower facility provides the majority of this generating capacity. However, during the dry season, due to a small reservoir, the capacity of Bumbuna is reduced to roughly 7 MW. Consequently, fossil fuel powered generators are relied upon during the dry season. A key contributor is the 66 MW Karpowership Heavy Fuel Oil (HFO) power barge. Asside from the nagetive environmental and social impacts of burning HFO for power generation, Karpowership represents a significant drain on the Government of Sierra Leone's budget.
 
 Resulting from the existing Bumbuna site's shortfalls in providing reliable electricity generation capacity throughout the year, there are various plans to expand its generation capacity and/or construct an additional reservoir further upstream at a site called Yiben.
 
-Sierra Leone has no economically recoverable fossil fuel reserves.
+Sierra Leone has no economically recoverable fossil fuel reserves and so relies entirely on imports.
 
-Electricity demand is expected to increase follwoing economic developement and electrification of households.
+Electricity demand is expected to increase following economic developement and electrification of households.
 
-In this context, and through consultsation with the MoE, PI-CREF, and other key stakeholders, we can see that the sustainable expansion of Sierra Leone's power sector is a key priority for the government in order to mee the growing demand due to electrification and reduce reliance on fossil fuel power plants and their associated costs.
+In this context, and through consultsation with the MoE, PI-CREF, and other key stakeholders, we can see that the sustainable expansion of Sierra Leone's power sector is a key priority for the government in order to meet growing demand for electricity and reduce reliance on fossil fuel power plants and their associated costs (economic, soccial, and environemntal).
 
 1.3 The Model for the Analysis of Energy Demand (MAED)
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+The Model for the Analysis of Energy Demand (MAED), a free tool created by the International Atomic Energy Agency (IAEA), employs a bot-tom-up simulation methodology to produce annual energy demand projections. MAED is an internationally renowned demand projection model and has been actively used by governments and energy planners to produce demand projections.
+MAED offers a dynamic model in which the user can evaluate the energy system at varying geographical and sector aggregation scales. 
+MAED combines the energy intensities across sub-sectors per energy type (specific electricity use, thermal, motive) and per fuel (electricity, fossil fuels, traditional fuels, biomass, solar thermal) with the driving factors (GDP growth rates, population growth, efficiencies etc.) to derive the final demand projections. The model reduces demand outputs for the energy system into four end use sectors of industry, transport, services, and households and produces both useful and final energy demand per sector and per fuel type.
+A more in-depth overview of the methodology employed within the software can be found in the pub-lished handbook [insert link].
+This study looks at the electricity demand in Sierra Leone for the end use sectors of Industry (agriculture and mining), Services, and Households (urban and rural). The modelling period of 2023 to 2050 is chosen to provide a long term forecast and the years 2018 to 2023 are used to create a baseline from historic demand data.
 
 1.4 The Open Source energy Modelling System (OSeMOSYS)
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++

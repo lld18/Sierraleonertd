@@ -2,11 +2,11 @@
 =======================================
 This documentation outlines the methodology used to generate the Model for Analysis of Energy Demand (MAED) for use in the OSeMOSYS modelling approach. Therefore it presents the key assumptions and sources for data inputs used in this model, as well as key calculations. The framework of this model is outlined below. 
 
-+-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
++---------------------------------------------------------------------------------------------------------------------+
 | .. figure:: img/SL_MAED_Diag.png                                                                                    |
 |    :align:   center                                                                                                 |
 |    :width:   500 px                                                                                                 |
-+-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
++---------------------------------------------------------------------------------------------------------------------+
 
 2.1. MAED Model Structure
 +++++++++

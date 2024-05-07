@@ -103,27 +103,27 @@ This section presents a summary of the key socioeconomic data inputs for the MAE
 |                | and        |                          |                                                                            |
 |                | statistics |                          |                                                                            |
 +----------------+------------+--------------------------+----------------------------------------------------------------------------+
-| Sectoral energy|            | Agriculture (MJ/US$)     |                                                                            |
+| Sectoral energy|            | Agriculture (MJ/US$)     | Agricultural productivity in terms of US$ per MJ of energy used.           |
 | intensity per  |            |                          |                                                                            |
 | annum          |            |                          |                                                                            |
 |                |            |                          |                                                                            |
 +                +------------+--------------------------+----------------------------------------------------------------------------+
-|                |            | Mining (MJ/US$)          |                                                                            |
+|                |            | Mining (MJ/US$)          | Mining productivity in terms of US$ per MJ of energy used.                 |
 |                |            |                          |                                                                            |
 |                |            |                          |                                                                            |
 |                |            |                          |                                                                            |
 +                +------------+--------------------------+----------------------------------------------------------------------------+
-|                |            | Services (MJ/US$)        |                                                                            |
+|                |            | Services (MJ/US$)        | Services productivity in terms of US$ per MJ of energy used.               |
 |                |            |                          |                                                                            |
 |                |            |                          |                                                                            |
 |                |            |                          |                                                                            |
 +                +------------+--------------------------+----------------------------------------------------------------------------+
-|                |            | Urban Household (MJ/US$) |                                                                            |
+|                |            | Urban Household (MJ/US$) | Productivity of Urban Households in terms of US$ per MJ of energy used.    |
 |                |            |                          |                                                                            |
 |                |            |                          |                                                                            |
 |                |            |                          |                                                                            |
 +                +------------+--------------------------+----------------------------------------------------------------------------+
-|                |            | Rural Household (MJ/US$) |                                                                            |
+|                |            | Rural Household (MJ/US$) | Productivity of Rural Households in terms of US$ per MJ of energy used.    |
 |                |            |                          |                                                                            |
 |                |            |                          |                                                                            |
 |                |            |                          |                                                                            |

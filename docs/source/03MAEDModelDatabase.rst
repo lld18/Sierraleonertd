@@ -126,6 +126,29 @@ The table below summarises the main sources and assumptions recommended for the 
 |                | from IRP   |                          |                                                                            |
 |                |            |                          |                                                                            |
 +----------------+------------+--------------------------+----------------------------------------------------------------------------+
+| GDP Scenarios  | IMF        | Base GDP Growth Rate     | The annual growth rate for Sierra Leone's GDP over the modelling period,   |
+|                |            |                          | assumed constant beyond available data.                                    |
+|                |            |                          |                                                                            |
++                +------------+--------------------------+----------------------------------------------------------------------------+
+|                | AfDB       | High GDP Growth Rate     | The annual growth rate for Sierra Leone's GDP over the modelling period,   |
+|                | Review     |                          | linear projection to meet Sierra Leone's ambitions (currently 7% by 2035)  |   |                |            |                          | and remaining constant beyond this horizon.                                |
++                +------------+--------------------------+----------------------------------------------------------------------------+
+|                | IMF        | Low GDP Growth Rate      | The annual growth rate for Sierra Leone's GDP over the modelling period,   |
+|                |            |                          | assumed to remain at 2023 rates.                                           | 
+|                |            |                          |                                                                            |
++----------------+------------+--------------------------+----------------------------------------------------------------------------+
+| Population     | World      | Base Population Scenario | The annual growth rate for Sierra Leone's population, assumed to remain    |
+| Scenarios      | Population |                          |  constant beyond current projections.                                      |
+|                | Review     |                          |                                                                            |
++                +------------+--------------------------+----------------------------------------------------------------------------+
+|                |            | High Population Scenario | The annual growth rate for Sierra Leone's population, assumed to equal     |
+|                |            |                          | growth rates found in other related studies in Sierra Leone.               |
+|                |            |                          |                                                                            |
++                +------------+--------------------------+----------------------------------------------------------------------------+
+|                | World      | Low Population Scenario  | The annual growth rate for Sierra Leone's population, assumed to maintain  |
+|                | Population |                          | annual changes growth rate in line with historic changes (-0.03% per year  | 
+|                | Review     |                          | based on 2019-2021 growth rates)                                           |
++----------------+------------+--------------------------+----------------------------------------------------------------------------+
 
 3.3. Summary of demographic parameters.
 +++++++++
@@ -255,6 +278,7 @@ This table summarises the energy intensities of each of the outlined sectors in 
 
 3.6. GDP Growth Scenario Variables
 +++++++++
+Demand scenarios were stablished for High and Low cases above and below the base scenario. This is driven by a 
 
 +-------------+--------------+--------------+--------------+--------------+--------------+--------------+--------------+--------------+
 | Scenario    | GDP Growth Rate (%)                                                                                                   |

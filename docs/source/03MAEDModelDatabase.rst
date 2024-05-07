@@ -131,7 +131,8 @@ The table below summarises the main sources and assumptions recommended for the 
 |                |            |                          |                                                                            |
 +                +------------+--------------------------+----------------------------------------------------------------------------+
 |                | AfDB       | High GDP Growth Rate     | The annual growth rate for Sierra Leone's GDP over the modelling period,   |
-|                | Review     |                          | linear projection to meet Sierra Leone's ambitions (currently 7% by 2035)  |   |                |            |                          | and remaining constant beyond this horizon.                                |
+|                | Review     |                          | linear projection to meet Sierra Leone's ambitions (currently 7% by 2035)  |   
+|                |            |                          | and remaining constant beyond this horizon.                                |
 +                +------------+--------------------------+----------------------------------------------------------------------------+
 |                | IMF        | Low GDP Growth Rate      | The annual growth rate for Sierra Leone's GDP over the modelling period,   |
 |                |            |                          | assumed to remain at 2023 rates.                                           | 

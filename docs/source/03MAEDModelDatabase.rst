@@ -11,7 +11,7 @@ The table below summarises the main sources and assumptions recommended for the 
 +================+============+==========================+============================================================================+
 | Population     | World Bank | Sierra Leone Population  | Population of Sierra Leone in initial year of modelling.                   |
 | parameters     | IMF        | (Millions)               |                                                                            |
-+                +------------+--------------------------+----------------------------------------------------------------------------+
++----------------+------------+--------------------------+----------------------------------------------------------------------------+
 |                | World      | Population Growth Rate   | Population growth rate in Sierra Leone. Assumed constant beyond            |
 |                | Population | (%)                      | current projections.                                                       |
 |                | Review     |                          |                                                                            |
@@ -106,29 +106,24 @@ The table below summarises the main sources and assumptions recommended for the 
 |                | and        |                          |                                                                            |
 |                | statistics |                          |                                                                            |
 +----------------+------------+--------------------------+----------------------------------------------------------------------------+
-| Sectoral energy|            | Agriculture (MJ/US$)     | Agricultural productivity in terms of US$ per MJ of energy used.           |
-| intensity per  |            |                          |                                                                            |
+| Sectoral energy| Calculated | Agriculture (MJ/US$)     | Agricultural productivity in terms of US$ per MJ of energy used.           |
+| intensity per  | from IRP   |                          |                                                                            |
 | annum          |            |                          |                                                                            |
++                +------------+--------------------------+----------------------------------------------------------------------------+
+|                | Calculated | Mining (MJ/US$)          | Mining productivity in terms of US$ per MJ of energy used.                 |
+|                | from IRP   |                          |                                                                            |
 |                |            |                          |                                                                            |
 +                +------------+--------------------------+----------------------------------------------------------------------------+
-|                |            | Mining (MJ/US$)          | Mining productivity in terms of US$ per MJ of energy used.                 |
-|                |            |                          |                                                                            |
-|                |            |                          |                                                                            |
-|                |            |                          |                                                                            |
-+                +------------+--------------------------+----------------------------------------------------------------------------+
-|                |            | Services (MJ/US$)        | Services productivity in terms of US$ per MJ of energy used.               |
-|                |            |                          |                                                                            |
-|                |            |                          |                                                                            |
+|                | Calculated | Services (MJ/US$)        | Services productivity in terms of US$ per MJ of energy used.               |
+|                | from IRP   |                          |                                                                            |
 |                |            |                          |                                                                            |
 +                +------------+--------------------------+----------------------------------------------------------------------------+
-|                |            | Urban Household (MJ/US$) | Productivity of Urban Households in terms of US$ per MJ of energy used.    |
-|                |            |                          |                                                                            |
-|                |            |                          |                                                                            |
+|                | Calculated | Urban Household (MJ/US$) | Productivity of Urban Households in terms of US$ per MJ of energy used.    |
+|                | from IRP   |                          |                                                                            |
 |                |            |                          |                                                                            |
 +                +------------+--------------------------+----------------------------------------------------------------------------+
-|                |            | Rural Household (MJ/US$) | Productivity of Rural Households in terms of US$ per MJ of energy used.    |
-|                |            |                          |                                                                            |
-|                |            |                          |                                                                            |
+|                | Calculated | Rural Household (MJ/US$) | Productivity of Rural Households in terms of US$ per MJ of energy used.    |
+|                | from IRP   |                          |                                                                            |
 |                |            |                          |                                                                            |
 +----------------+------------+--------------------------+----------------------------------------------------------------------------+
 

@@ -7,7 +7,7 @@ This documentation outlines the methodology used to generate the Model for Analy
 +---------------------------------------------------------------------------------------------------------------------+
 | .. figure:: img/SL_MAED_Diag.png                                                                                    |
 |    :align:   center                                                                                                 |
-|    :width:   500 px                                                                                                 |
+|    :width:   750 px                                                                                                 |
 +---------------------------------------------------------------------------------------------------------------------+
 
 2.2. MAED Sets

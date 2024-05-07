@@ -1,6 +1,7 @@
 3. MAED Model: Database
 =======================================
 This section presents a summary of the key socioeconomic data inputs for the MAED model used to predict energy demand in Sierra Leone, as well as key calculations used to allow this data to be used within the MAED model as well as outputting data formatted appropriately for use in the OSeMOSYS model.
+
 3.1 Main Data Sources.
 +++++++++
 The table below summarises the main sources and assumptions recommended for the data used in the MAED study for Sierra Leone.

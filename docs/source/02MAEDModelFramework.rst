@@ -9,6 +9,7 @@ This documentation outlines the methodology used to generate the Model for Analy
 |    :align:   center                                                                                                 |
 |    :width:   750 px                                                                                                 |
 +---------------------------------------------------------------------------------------------------------------------+
+   *Figure 2.1: Simplified summary of the role of MAED*
 
 2.2. MAED Sets
 +++++++++

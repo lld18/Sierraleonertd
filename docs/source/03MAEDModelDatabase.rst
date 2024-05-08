@@ -1,6 +1,6 @@
 3. MAED Model: Database
 =======================================
-This section presents a summary of the key socioeconomic data inputs for the MAED model used to predict energy demand in Sierra Leone, as well as key calculations used to allow this data to be used within the MAED model as well as outputting data formatted appropriately for use in the OSeMOSYS model.
+This section presents a summary of the key socioeconomic data inputs for the MAED model used to predict energy demand in Sierra Leone, as well as key calculations used to allow this data to be used within the MAED model as well as outputting data formatted appropriately for use in the OSeMOSYS model. Along side the base-scenario established in this data are two other demand scenarios; a high GDP and population growth rate scenario, and a low GDP and population scenario outlined in sections 3.6 and 3.7. these are used to esablish high and low demand scenarios alongside the baseline scenario. 
 
 3.1 Main Data Sources.
 +++++++++

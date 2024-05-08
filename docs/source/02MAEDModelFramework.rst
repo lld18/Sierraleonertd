@@ -1,6 +1,6 @@
 2. MAED model: framework 
 =======================================
-This documentation outlines the methodology used to generate the Model for Analysis of Energy Demand (MAED) for use in the OSeMOSYS modelling approach. Therefore it presents the key assumptions and sources for data inputs used in this model, as well as key calculations. The framework of this model is outlined below. 
+This documentation outlines the methodology used to generate the Model for Analysis of Energy Demand (MAED) for use in the OSeMOSYS modelling approach. MAED is a demand model developed by the IAEA that projects future national and sectoral energy demands based on medium and long-term socioeconomic, technological and demographic projections. Therefore this documentation aims to outline the key assumptions and sources for data inputs for use in this model, as well as key calculations. The framework of this model is outlined below. 
 
 2.1. MAED Model Structure
 +++++++++
@@ -9,7 +9,7 @@ This documentation outlines the methodology used to generate the Model for Analy
 |    :align:   center                                                                                                 |
 |    :width:   750 px                                                                                                 |
 +---------------------------------------------------------------------------------------------------------------------+
-   *Figure 2.1: Simplified summary of the role of MAED*
+   *Figure 2.1: Simplified summary of the process of MAED projecting future demand*
 
 2.2. MAED Sets
 +++++++++

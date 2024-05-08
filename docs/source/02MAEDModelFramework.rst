@@ -18,11 +18,12 @@ Demand for Sierra Leone was calculated using the open-source IAEA MAED model. Th
 
 2.2.1 Population
 ---------
-This represents the population for Sierra Leone in millions  for the initial year of modelling which in this initial MAED model is set to 2018. This provides the baseline from with MAED will project future population growth.
+
+The population for Sierra Leone reported in the first year of modelling which is currently set to 2018 for use in the MAED model and must be reported in millions of individuals. This provides the baseline from which MAED will project future population growth.
 
 2.2.2 Population Growth Rate
 ---------
-The annualised population growth rate for Sierra Leone's population over the modelling period of 2018-2050 based on the available data. This is used to assess the growth of Sierra Leone's existing scenarios, and can be adjusted to reflect higher or lower population growth scenarios. 
+The annualised population growth rate for Sierra Leone's population over the modelling period of 2018-2050 based on the available data. This is used to assess the growth of Sierra Leone's existing GDP under projected scenarios, and can be adjusted to reflect higher or lower population growth scenarios in conjunction with high and low GDP growth scenarios to develop corresponding energy demand scenarios. 
 
 2.2.3 Urban Population Share
 ---------
@@ -46,11 +47,11 @@ The percentage of Sierra Leone's population that is reported to actively partici
 
 2.2.8 GDP (USD Millions)
 ---------
-The GDP for Sierra Leone reported in the first year of modelling, reported in Billion US Dollars.
+The GDP for Sierra Leone reported in the first year of modelling which is currently set to 2018 for use in the MAED model and must be reported in Billion US Dollars. This provides the baseline from which MAED will project future GDP growth.
 
 2.2.9 GDP Growth Rate
 ---------
-Annualised estimates of the growth rate of Sierra Leone's GDP over the modelling period based on available data.
+The annualised GDP growth rate for Sierra Leone's GDP over the modelling period of 2018-2050 based on the available data. This is used to assess the growth of Sierra Leone's existing population under projected scenarios, and can be adjusted to reflect higher or lower GDP growth scenarios in conjunction with high and low population growth scenarios to develop corresponding energy demand scenarios. 
 
 2.2.10 Sectoral Shares of GDP
 ---------

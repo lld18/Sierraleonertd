@@ -18,7 +18,7 @@ Demand for Sierra Leone was calculated using the open-source IAEA MAED model. Th
 
 2.2.1 Population
 ---------
-The population for Sierra Leone in millions, for the initial year of modelling.
+This represents the population for Sierra Leone in millions  for the initial year of modelling which in this initial MAED model is set to 2018. This provides the baseline from with MAED will project future population growth.
 
 2.2.2 Population Growth Rate
 ---------

@@ -22,27 +22,27 @@ This represents the population for Sierra Leone in millions  for the initial yea
 
 2.2.2 Population Growth Rate
 ---------
-The annualised population growth rate for Sierra Leone's population over the modelling period based on available data.
+The annualised population growth rate for Sierra Leone's population over the modelling period of 2018-2050 based on the available data. This is used to assess the growth of Sierra Leone's existing scenarios, and can be adjusted to reflect higher or lower population growth scenarios. 
 
 2.2.3 Urban Population Share
 ---------
-The share of Sierra Leone's population living in Urban Households.
+The share of Sierra Leone's population living in Urban Households. This projects potential changes in the share of Sierra Leone's population living in urban areas compared to those living in rural areas based on available data. 
 
 2.2.4 Persons per Urban Household
 ---------
-The average number of occupants per urban household in Sierra Leone.
+The average number of occupants per urban household in Sierra Leone. This is used to scale energy demand based on Sierra Leone's urban population and urban household energy demand parameters. 
 
 2.2.5 Persons per Rural Household
 ---------
-The average number of occupants per rural household in Sierra Leone. 
+The average number of occupants per rural household in Sierra Leone. This is used to scale energy demand based on Sierra Leone's rural population and rural household energy demand parameters. 
 
 2.2.6 Potential Labour Force Share
 ---------
-The percentage of Sierra Leone's population that has the potential to contribute to the national labour force. 
+This represents the percentage of Sierra Leone's population that has the potential to contribute to the national labour force. This is currently assumed to remain constant over the modelling period 2018-2050 in lieu of sufficient data.
 
 2.2.7 Participating Labour Fource Share
 ---------
-The percentage of Sierra Leone;s population that participates and actively contributes to the national labour force. 
+The percentage of Sierra Leone's population that is reported to actively participate and contribute to the national labour force. This is currently assumed to remain constant over the modelling period 2018-2050 in lieu of sufficient data.
 
 2.2.8 GDP (USD Millions)
 ---------

@@ -12,7 +12,7 @@ The Sierra Leonean energy sector is entirely modelled in OSeMOSYS. This has been
 |    :align:   center                                                                                                 |
 |    :width:   750 px                                                                                                 |
 +---------------------------------------------------------------------------------------------------------------------+
-
+ *Figure 2.1: Simplified energy system for the Sierra Leone model*
 2.2 Sets 
 +++++++++
 
@@ -34,7 +34,7 @@ In the OSeMOSYS model fuels act as commodities, with their availability often sp
 |    :align:   center                                                                                                 |
 |    :width:   750 px                                                                                                 |
 +---------------------------------------------------------------------------------------------------------------------+
-   *Figure 2.1: Reference energy system for the structure of technologies used in the Sierra Leone OSeMOSYS model*
+   *Figure 2.1.3: Reference energy system for the structure of technologies used in the Sierra Leone OSeMOSYS model*
 
 2.2.4 Emissions
 ---------

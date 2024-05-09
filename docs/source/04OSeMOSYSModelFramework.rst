@@ -75,9 +75,14 @@ This corresponds to the period of analysis. For OSeMOSYS-SL it is from 2015 to 2
 
 
 
-
 2.2.3 Technologies
 ---------
++---------------------------------------------------------------------------------------------------------------------+
+| .. figure:: img/SL_RES_Diag.png                                                                                    |
+|    :align:   center                                                                                                 |
+|    :width:   750 px                                                                                                 |
++---------------------------------------------------------------------------------------------------------------------+
+   *Figure 2.2.3: Reference Energy System for the technologies used in the Sierra Leone OSeMOSYS Model*
 
 
 

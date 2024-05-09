@@ -4,7 +4,6 @@ This documentation outlines the methodology used to generate the Model for Analy
 
 2.1. MAED Model Structure
 +++++++++
-General Model Structure
 +---------------------------------------------------------------------------------------------------------------------+
 | .. figure:: img/SL_MAED_Diag.png                                                                                    |
 |    :align:   center                                                                                                 |

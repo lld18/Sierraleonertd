@@ -44,7 +44,7 @@ This OSeMOSYS model focuses on accounting for the CO2 emissions associated with 
 
 2.2.5 Mode of operation
 ---------
-
+The model has one mode of operation, for representing the normal operation of the system. Scenario design can be found in Section 6.   
 
 2.2.6 Region
 ---------

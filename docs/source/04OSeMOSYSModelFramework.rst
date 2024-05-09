@@ -6,7 +6,12 @@ This documentation has been created in order to provide an overview of OSeMOSYS-
 2.1 General model structure 
 +++++++++
 
-TThe Sierra Leonean energy sector is entirely modelled in OSeMOSYS. This has been built to focus on key concerns within the development of Sierra Leons's power sector, with key planned and prospective power plant projects such as the Bumbuna II (Yiben) modelled individually within the OSeMOSYs model. This model does not currently include demand or technologies driven by the transport sector in part due to a lack of available data. The overall structure of the model can be summarised in the simplified diagram Figure 2.1. with primary energy sourced from renewables, imported fossil fuels, domestic biomass or imported electricity. These commodities are transformed through a range of technologies to meet demands from different sectors as established in the MAED model, including Industrial, Commercial, and Residential household demands.  
+The Sierra Leonean energy sector is entirely modelled in OSeMOSYS. This has been built to focus on key concerns within the development of Sierra Leons's power sector, with key planned and prospective power plant projects such as the Bumbuna II (Yiben) modelled individually within the OSeMOSYs model. This model does not currently include demand or technologies driven by the transport sector in part due to a lack of available data. The overall structure of the model can be summarised in the simplified diagram Figure 2.1. with primary energy sourced from renewables, imported fossil fuels, domestic biomass or imported electricity. These commodities are transformed through a range of technologies to meet demands from different sectors as established in the MAED model, including Industrial, Commercial, and Residential household demands.  
++---------------------------------------------------------------------------------------------------------------------+
+| .. figure:: img/SL_Mod_Struc.png                                                                                     |
+|    :align:   center                                                                                                 |
+|    :width:   750 px                                                                                                 |
++---------------------------------------------------------------------------------------------------------------------+
 
 2.2 Sets 
 +++++++++
@@ -25,7 +30,7 @@ In the OSeMOSYS model fuels act as commodities, with their availability often sp
 2.2.3 Technologies
 ---------
 +---------------------------------------------------------------------------------------------------------------------+
-| .. figure:: img/SL_RES_Diag.png                                                                                    |
+| .. figure:: img/SL_RES_Diag.png                                                                                     |
 |    :align:   center                                                                                                 |
 |    :width:   750 px                                                                                                 |
 +---------------------------------------------------------------------------------------------------------------------+
@@ -33,9 +38,11 @@ In the OSeMOSYS model fuels act as commodities, with their availability often sp
 
 2.2.4 Emissions
 ---------
+This OSeMOSYS model focuses on accounting for the CO2 emissions associated with the energy generating technologies as a key concerrn for Sierra Leone's climate initiatives. The addition of the transport sector in the modelling would further the national emissions. 
 
 2.2.5 Mode of operation
 ---------
+
 
 2.2.6 Region
 ---------

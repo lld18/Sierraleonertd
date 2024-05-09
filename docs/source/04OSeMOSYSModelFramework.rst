@@ -36,6 +36,7 @@ This corresponds to the period of analysis. For OSeMOSYS-SL it is from 2015 to 2
 
 2.2.2 Fuels
 ---------
+In the OSeMOSYS model fuels act as commodities, with their availability often split between the demand of several technologies. These are crutial in establishing limitations in the supply chain of Sierra Leone's power sector from the three main fuel sources of production, importation or renewable fuels available for use in energy generation within Sierra Leone.  
 
 
 

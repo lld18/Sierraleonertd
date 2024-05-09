@@ -24,13 +24,12 @@ In the OSeMOSYS model fuels act as commodities, with their availability often sp
 
 2.2.3 Technologies
 ---------
-
 +---------------------------------------------------------------------------------------------------------------------+
-| .. figure:: img/SL_RES_Diag.png                                                                                     |
+| .. figure:: img/SL_RES_Diag.png                                                                                    |
 |    :align:   center                                                                                                 |
-|    :width:   500 px                                                                                                 |
+|    :width:   750 px                                                                                                 |
 +---------------------------------------------------------------------------------------------------------------------+
-   *Figure 2.2.3: Reference Energy System for the technologies used in the Sierra Leone OSeMOSYS Model*
+   *Figure 2.1: Reference energy system for the structure of technologies used in the Sierra Leone OSeMOSYS model*
 
 2.2.4 Emissions
 ---------

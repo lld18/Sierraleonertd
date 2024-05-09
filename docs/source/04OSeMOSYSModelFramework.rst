@@ -8,11 +8,11 @@ This documentation has been created in order to provide an overview of OSeMOSYS-
 
 The Sierra Leonean energy sector is entirely modelled in OSeMOSYS. This has been built to focus on key concerns within the development of Sierra Leons's power sector, with key planned and prospective power plant projects such as the Bumbuna II (Yiben) modelled individually within the OSeMOSYs model. This model does not currently include demand or technologies driven by the transport sector in part due to a lack of available data. The overall structure of the model can be summarised in the simplified diagram Figure 2.1. with primary energy sourced from renewables, imported fossil fuels, domestic biomass or imported electricity. These commodities are transformed through a range of technologies to meet demands from different sectors as established in the MAED model, including Industrial, Commercial, and Residential household demands.  
 
-+---------------------------------------------------------------------------------------------------------------------+
-| .. figure:: img/SL_Mod_Struc.png                                                                                    |
-|    :align:   center                                                                                                 |
-|    :width:   750 px                                                                                                 |
-+---------------------------------------------------------------------------------------------------------------------+
+
+.. figure:: img/SL_Mod_Struc.png 
+   :align:   center 
+   :width:   750 px
+
  *Figure 2.1: Simplified energy system for the Sierra Leone model*
 
 2.2 Sets 

@@ -26,7 +26,7 @@ In the OSeMOSYS model fuels act as commodities, with their availability often sp
 ---------
 
 +---------------------------------------------------------------------------------------------------------------------+
-| .. figure:: img/SL_RES_Diag.png                                                                                    |
+| .. figure:: img/SL_RES_Diag.png                                                                                     |
 |    :align:   center                                                                                                 |
 |    :width:   500 px                                                                                                 |
 +---------------------------------------------------------------------------------------------------------------------+

@@ -5,9 +5,9 @@ This documentation outlines the methodology used to generate the Model for Analy
 2.1. MAED Model Structure
 +++++++++
 
- .. figure:: img/SL_MAED_Diag.png
-    :align:   center
-    :width:   750 px
+.. figure:: img/SL_MAED_Diag.png
+   :align:   center
+   :width:   700 px
 
    *Figure 2.1: Simplified summary of the process of MAED projecting future demand*
 

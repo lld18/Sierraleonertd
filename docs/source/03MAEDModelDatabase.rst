@@ -11,7 +11,7 @@ The table below summarises the main sources and assumptions recommended for the 
 +================+============+==========================+============================================================================+
 | Population     | World Bank | Sierra Leone Population  | Population of Sierra Leone in initial year of modelling.                   |
 | parameters     | IMF        | (Millions)               |                                                                            |
-+----------------+------------+--------------------------+----------------------------------------------------------------------------+
++                +------------+--------------------------+----------------------------------------------------------------------------+
 |                | World      | Population Growth Rate   | Population growth rate in Sierra Leone. Assumed constant beyond            |
 |                | Population | (%)                      | current projections.                                                       |
 |                | Review     |                          |                                                                            |

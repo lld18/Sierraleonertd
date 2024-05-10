@@ -55,7 +55,7 @@ Scenario 4 also assumes that the policy landscape remains the same as business-a
 6.5. Scenario 5
 +++++++++
 
-Scenario 5 assumes that the policy landscape remains the same as business-as-usual with regards to emissions targets, however this scenario focuses on the significatn expansion of the Bumbuna project with the addition of a second reservoir at the Yiben site with a 55 MW Bumbuna II development, as well as the addition of a further 88 MW re-development of the Bumbuna I site.
+Scenario 5 assumes that the policy landscape remains the same as business-as-usual with regards to emissions targets, however this scenario focuses on the significatn expansion of the Bumbuna project with the addition of a second reservoir at the Yiben site with a 55 MW Bumbuna II development, as well as the addition of a further 88 MW re-development of the Bumbuna I site that involves significant alterations to the existing infrastructure.
 
 .. figure:: img/SL_Scen_5.png
    :align:   center
@@ -67,7 +67,7 @@ Scenario 5 assumes that the policy landscape remains the same as business-as-usu
 6.6. Scenario 6
 +++++++++
 
-Scenario 6
+Scenario 5 assumes that the policy landscape remains the same as business-as-usual with regards to emissions target. 
 
 .. figure:: img/SL_Scen_6.png
    :align:   center

@@ -51,18 +51,19 @@ The last grouping labelled as SECT represents the division of energy within Sier
 
 Table 2.1.3 summarises these groupings in OSeMOSYS-SL.
 
-+----------------+----------------------+---------------------------------------------------------------------------------+
-| Group          |Description           | Example                                                                         |
-+================+======================+=================================================================================+
-| IMP-PROD       | Energy Commodities   |                                                                                 |
-|                |                      |                                                                                 |
-+----------------+----------------------+---------------------------------------------------------------------------------+
-| PP-TD          | Power Plants and     |                                                                                 |
-|                | Grid Infrastructure  |                                                                                 |
-+----------------+----------------------+---------------------------------------------------------------------------------+
-| SECT           | Sectoral Divisions   |                                                                                 |
-|                |                      |                                                                                 |
-+----------------+----------------------+---------------------------------------------------------------------------------+
++----------------+----------------------+-----------------------------------------------------------------------------------+
+| Group          |Description           | Example                                                                           |
++================+======================+===================================================================================+
+| IMP-PROD       | Energy Commodities   | Imported and domestic commodities (Fossil fuels, biomass and renewable resources) |
+|                |                      | as well as their distribution and processing                                      |
++----------------+----------------------+-----------------------------------------------------------------------------------+
+| PP-TD          | Power Plants and     | Solar power plants, hydro power plants, biomass power plants, energy imports and  |
+|                | Grid Infrastructure  | transmission and distribution as well as specific power plants within Sierra Leone|
++----------------+----------------------+-----------------------------------------------------------------------------------+
+| SECT           | Sectoral Divisions   | The use of fuels and energy within sectors for Sierra Leone currently modelled as |
+|                |                      | Residential, Industrial and Commercial uses of energy and raw resources for       |
+|                |                      | processes such as cooking and heating.                                            |
++----------------+----------------------+-----------------------------------------------------------------------------------+
 
 2.2.4 Emissions
 ---------

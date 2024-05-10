@@ -19,7 +19,7 @@ Scenario 1 outlines a "business-as-usual" (BAU) scenario, development of the pow
 6.2. Scenario 2
 +++++++++
 
-Scenario 2
+Scenario 2 assumes that the policy landscape remains the same as business-as-usual with regards to emissions targets, however includes the expansion of the existing bumbuna infrastructure with an additional 50 MW of capacity at the Bumbuna I site.
 
 .. figure:: img/SL_Scen_2.png
    :align:   center
@@ -31,7 +31,7 @@ Scenario 2
 6.3. Scenario 3
 +++++++++
 
-Scenario 3.
+Scenario 3 assumes that the policy landscape remains the same as business-as-usual with regards to emissions targets. However this scenario includes the expansion of the existing Bumbuna I capacity by an additional 160 MW.
 
 .. figure:: img/SL_Scen_3.png
    :align:   center
@@ -43,7 +43,7 @@ Scenario 3.
 6.4. Scenario 4
 +++++++++
 
-Scenario 4
+Scenario 4 also assumes that the policy landscape remains the same as business-as-usual with regards to emissions targets. This scenario is similar to Scenario 2 as it includes the expansion of the existing Bumbuna I infrastructure with the addition of 50 MW of capacity. However this scenario also includes the co-location of an additional 25 MW of co-located solar capacity. 
 
 .. figure:: img/SL_Scen_4.png
    :align:   center

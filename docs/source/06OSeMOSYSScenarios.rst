@@ -7,7 +7,7 @@ OSeMOSYS-SL started by estimating a base case, and subsequently, including the e
 6.1. Scenario 1
 +++++++++
 
-Scenario 1 outlines a "business-as-usual" (BAU) scenario, representing the behavior of the emissions without considering public policy interventions (i.e. following the historic trends). 
+Scenario 1 outlines a "business-as-usual" (BAU) scenario, development of the power sector without any implementation of phase 2 of the bumbuna development and assuming no public policy intervention with regards to emissions (i.e. following the historic trends). 
 
 .. figure:: img/SL_Scen_1.png
    :align:   center

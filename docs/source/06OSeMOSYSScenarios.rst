@@ -19,7 +19,7 @@ Scenario 1 outlines a "business-as-usual" (BAU) scenario, development of the pow
 6.2. Scenario 2
 +++++++++
 
-Scenario 2 assumes that the policy landscape remains the same as business-as-usual with regards to emissions targets, however includes the expansion of the existing bumbuna infrastructure with an additional 50 MW of capacity at the Bumbuna I site.
+Scenario 2 assumes that the policy landscape remains the same as business-as-usual with regards to emissions targets, however includes the expansion of the existing Bumbuna infrastructure with an additional 50 MW of capacity at the Bumbuna I site.
 
 .. figure:: img/SL_Scen_2.png
    :align:   center
@@ -55,7 +55,7 @@ Scenario 4 also assumes that the policy landscape remains the same as business-a
 6.5. Scenario 5
 +++++++++
 
- Scenario 5
+Scenario 5 assumes that the policy landscape remains the same as business-as-usual with regards to emissions targets, however this scenario focuses on the significatn expansion of the Bumbuna project with the addition of a second reservoir at the Yiben site with a 55 MW Bumbuna II development, as well as the addition of a further 88 MW re-development of the Bumbuna I site.
 
 .. figure:: img/SL_Scen_5.png
    :align:   center

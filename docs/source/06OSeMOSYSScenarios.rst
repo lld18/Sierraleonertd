@@ -5,7 +5,7 @@ OSeMOSYS-SL started by estimating a base case, and subsequently, including the e
 
 
 6.1. Scenario 1
-----------
++++++++++
 
  A Business-as-usual (BAU) scenario, that represents the behavior of the emissions without considering public policy interventions (i.e. following the historic trends). 
 
@@ -17,7 +17,8 @@ OSeMOSYS-SL started by estimating a base case, and subsequently, including the e
 
 
 6.2. Scenario 2
-----------
++++++++++
+
 Scenario 2
 
 .. figure:: img/SL_Scen_2.png
@@ -28,7 +29,8 @@ Scenario 2
 
 
 6.3. Scenario 3
-----------
++++++++++
+
 Scenario 3.
 
 .. figure:: img/SL_Scen_3.png
@@ -39,7 +41,8 @@ Scenario 3.
 
 
 6.4. Scenario 4
-----------
++++++++++
+
 Scenario 4
 
 .. figure:: img/SL_Scen_4.png
@@ -50,7 +53,8 @@ Scenario 4
 
 
 6.5. Scenario 5
-----------
++++++++++
+
  Scenario 5
 
 .. figure:: img/SL_Scen_5.png
@@ -61,7 +65,8 @@ Scenario 4
 
 
 6.6. Scenario 6
-----------
++++++++++
+
 Scenario 6
 
 .. figure:: img/SL_Scen_6.png
@@ -72,7 +77,8 @@ Scenario 6
 
 
 6.7. Scenario 7
-----------
++++++++++
+
  Scenario 7
 
 .. figure:: img/SL_Scen_7.png

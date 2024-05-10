@@ -32,7 +32,7 @@ In the OSeMOSYS model fuels act as commodities, with their availability often sp
 2.2.3 Technologies
 ---------
 
-.. figure:: img/SL_RES_Diag.png
+.. figure:: img/SL_Tech_Diag.png
    :align:   center
    :width:   700 px
 

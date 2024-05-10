@@ -39,6 +39,7 @@ Scenario 3
 
 
 Scenario 4
+----------
 (4) Scenario 4
 
 .. figure:: img/SL_Scen_4.png
@@ -48,7 +49,8 @@ Scenario 4
    *Figure 6.4: Simplified visualisation of Scenario 4 for Bumbuna expansion in Sierra Leone*
 
 
-Scenario 5.
+Scenario 5
+----------
 (5) Scenario 5
 
 .. figure:: img/SL_Scen_5.png
@@ -58,7 +60,8 @@ Scenario 5.
    *Figure 6.5: Simplified visualisation of Scenario 5 for Bumbuna expansion in Sierra Leone*
 
 
-Scenario 6.
+Scenario 6
+----------
 (6) Scenario 6
 
 .. figure:: img/SL_Scen_6.png
@@ -68,7 +71,8 @@ Scenario 6.
    *Figure 6.6: Simplified visualisation of Scenario 6 for Bumbuna expansion in Sierra Leone*
 
 
-Scenario 7.
+Scenario 7
+----------
 (7) Scenario 7
 
 .. figure:: img/SL_Scen_7.png

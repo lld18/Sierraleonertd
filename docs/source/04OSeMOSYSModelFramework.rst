@@ -15,9 +15,6 @@ The Sierra Leonean energy sector is entirely modelled in OSeMOSYS. This has been
 
 *Figure 2.1: Simplified diagram for technologies within the Sierra Leone model*
 
-The groups of technologies are summaried in figure 2.1 and described below.
-The group IMP-PROD is used to represent the raw resources available to Sierra Leone
-
 2.2 Sets 
 +++++++++
 

@@ -8,7 +8,10 @@ This section presents the main databases explored for building OSeMOSYS-SL, and 
 3.1.1 Energy balance of Sierra Leone
 ---------
 
-The energy balance is the most important source of data for the energy model of OSeMOSYS-SL. Projections for the sectoral energy demands within Sierra Leone were projected based on historic data made available by EDSA, and modelled using MAED as outlined in sections 2 and 3.
+The energy balance is the most important source of data for the energy model of OSeMOSYS-SL. Projections for the sectoral energy demands within Sierra Leone were projected based on historic data made available by EDSA, and modelled using MAED as outlined in sections 2 and 3. The historic energy balance is used as a basis for modelling is illustrated in Figure 3.1.1 below.
+
+
+
 
 
 3.1.2 Other key databases 

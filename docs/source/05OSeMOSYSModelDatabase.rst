@@ -16,7 +16,7 @@ The energy balance is the most important source of data for the energy model of 
 
 In the model, all fuels and technologies are incorporated to OSeMOSYS taking into account other sets, such as temporary divisions and emission, as well as the parameters. The latter are classified, among others, into costs, activity levels and infrastructure capacities. The establishment of these parameters was done after processing and reviewing the available national energy data. Table 3.1 summarizes the main souces of data for OSeMOSYS-CR. 
 
-*Table 3.1: Main data sources used in OSeMOSYS-CR.*
+*Table 3.1.2: Main data sources used in OSeMOSYS-CR.*
 
 .. table:: 
    :align:   center
@@ -84,3 +84,7 @@ In the model, all fuels and technologies are incorporated to OSeMOSYS taking int
 | Co-benefits  |            | Coefficients             |                                                                              |
 |              |            |                          |                                                                              |
 +--------------+------------+--------------------------+------------------------------------------------------------------------------+
+
+
+3.1.3 Summary of sierra leone power plant capital costs
+---------

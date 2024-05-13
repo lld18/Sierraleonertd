@@ -7,8 +7,8 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'Sierra Leone'
-copyright = '2023, Ranea Saad'
-author = 'Ranea Saad'
+copyright = '2023, Climate Compatible Growth'
+author = 'Will Collier, Fynn Kiley, Neve Fields'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration

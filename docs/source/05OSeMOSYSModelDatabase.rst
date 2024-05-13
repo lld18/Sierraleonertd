@@ -86,7 +86,7 @@ In the model, all fuels and technologies are incorporated to OSeMOSYS taking int
 +--------------+------------+--------------------------+------------------------------------------------------------------------------+
 
 
-3.1.3 Summary of sierra leone power plant capital costs
+3.1.3 Summary of Sierra Leone power plant capital costs
 ---------
 Capital costs for power projects within Sierra Leone were collected from sources reported in Table 3.1.2.These costs reflect the cost associated with the construction of these power plants in order to meet the national demands predicted by OSeMOSYS. This is assumed to remain constant for many technologies, however for rapidly developing technologies such as solar, learning curves account for decreases in the technological cost associated with increased uptake of solar. these costs are summarised across key years in the table below. 
 +----------------------------------+-----------+-----------+-----------+-----------+-----------+-----------+

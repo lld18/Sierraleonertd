@@ -21,7 +21,8 @@ Contents
    04OSeMOSYSModelFramework
    05OSeMOSYSmodelDatabase
    06OSeMOSYSScenarios
-   07References
+   07UsingOSeMOSYS-SL
+   08References
 
 
 

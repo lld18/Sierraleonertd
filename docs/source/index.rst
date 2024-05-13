@@ -19,7 +19,7 @@ Contents
    02MAEDModelFramework
    03MAEDModelDatabase
    04OSeMOSYSModelFramework
-   05OSeMOSYSmodelDatabase
+   05OSeMOSYSModelDatabase
    06OSeMOSYSScenarios
    07UsingOSeMOSYS-SL
    08References

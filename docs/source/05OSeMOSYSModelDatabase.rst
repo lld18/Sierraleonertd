@@ -1,4 +1,4 @@
-5. OSeMOSYS model: database
+5. OSeMOSYS model: Database
 =======================================
 This section presents the main databases explored for building OSeMOSYS-SL, and the way the information was processed in order to introduce it to the model. 
 

@@ -191,7 +191,7 @@ The table below summarises the capital investment costs for Grid and Mini-grid t
 Operational life dictates the time span over which a power plant is able to operate following its comission. 
 
 +------------------------------------+------------------------------------+------------------------------------+------------------------------------+
-| Technology                         |                                            Operational Life (Years)                                          |
+| Technology                         |      Operational Life (Years)      | Technology                         |      Operational Life (Years)      |
 +====================================+====================================+====================================+====================================+
 | Biomass Power Plant                |                 30                 | Medium Hydro (10-100MW)            |                 50                 |
 +------------------------------------+------------------------------------+------------------------------------+------------------------------------+

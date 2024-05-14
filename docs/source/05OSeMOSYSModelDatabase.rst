@@ -2,24 +2,24 @@
 =======================================
 This section presents the main databases explored for building OSeMOSYS-SL, and the way the information was processed in order to introduce it to the model. 
 
-3.1 Main data sources
+5.1 Main data sources
 +++++++++
 
-3.1.1 Energy balance of Sierra Leone
+5.1.1 Energy balance of Sierra Leone
 ---------
-The energy balance is the most important source of data for the energy model of OSeMOSYS-SL. Projections for the sectoral energy demands within Sierra Leone were projected based on historic data made available by EDSA, and modelled using MAED as outlined in sections 2 and 3. The baseline historic energy balance is used as a basis for modelling is illustrated in Figure 3.1.1 below.
+The energy balance is the most important source of data for the energy model of OSeMOSYS-SL. Projections for the sectoral energy demands within Sierra Leone were projected based on historic data made available by EDSA, and modelled using MAED as outlined in sections 2 and 3. The baseline historic energy balance is used as a basis for modelling is illustrated in Figure 5.1.1 below.
 
 .. figure:: img/SL_Hist_Demand.png
    :align:   center
    :width:   700 px
 
-   *Figure 3.1.1: Summary of Sierra Leone's power sector energy demand across baseline years*
+   *Figure 5.1.1: Summary of Sierra Leone's power sector energy demand across baseline years*
 
-3.1.2 Other key databases 
+5.1.2 Other key databases 
 ---------
-In the model, all fuels and technologies are incorporated to OSeMOSYS taking into account other sets, such as temporary divisions and emission, as well as the parameters. The latter are classified, among others, into costs, activity levels and infrastructure capacities. The establishment of these parameters was done after processing and reviewing the available national energy data. Table 3.1 summarizes the main souces of data for OSeMOSYS-CR. 
+In the model, all fuels and technologies are incorporated to OSeMOSYS taking into account other sets, such as temporary divisions and emission, as well as the parameters. The latter are classified, among others, into costs, activity levels and infrastructure capacities. The establishment of these parameters was done after processing and reviewing the available national energy data. Table 5.1 summarizes the main souces of data for OSeMOSYS-CR. 
 
-*Table 3.1.2: Main data sources used in OSeMOSYS-CR.*
+*Table 5.1.2: Main data sources used in OSeMOSYS-CR.*
 
 .. table:: 
    :align:   center
@@ -88,14 +88,14 @@ In the model, all fuels and technologies are incorporated to OSeMOSYS taking int
 |              |            |                          |                                                                              |
 +--------------+------------+--------------------------+------------------------------------------------------------------------------+
 
-3.1 Main Data Inputs
+5.1 Main Data Inputs
 ++++++++++
 
-3.2.1 Sierra Leone power-sector capital costs
+5.2.1 Sierra Leone power-sector capital costs
 ---------
-Capital costs for power projects within Sierra Leone were collected from sources reported in Table 3.1.2.These costs reflect the cost associated with the construction of these power plants in order to meet the national demands predicted by OSeMOSYS. This is assumed to remain constant for many technologies, however for rapidly developing technologies such as solar, learning curves account for decreases in the technological cost associated with increased uptake of solar. Similarly, for technologies with no associated capital costs such as Karpowership, this was set to →0 for modelling purposes. A summary of these costs can be found in subsection *A1* of the Annex. Transmission and distribution costs were assumed to remain constant throughout the modelling period. A summary of this data is also available in subsection *A2* of the Annex section, with the full data available through the data repository associated with this documentation. 
+Capital costs for power projects within Sierra Leone were collected from sources reported in Table 5.1.2.These costs reflect the cost associated with the construction of these power plants in order to meet the national demands predicted by OSeMOSYS. This is assumed to remain constant for many technologies, however for rapidly developing technologies such as solar, learning curves account for decreases in the technological cost associated with increased uptake of solar. Similarly, for technologies with no associated capital costs such as Karpowership, this was set to →0 for modelling purposes. A summary of these costs can be found in subsection *A1* of the Annex. Transmission and distribution costs were assumed to remain constant throughout the modelling period. A summary of this data is also available in subsection *A2* of the Annex section, with the full data available through the data repository associated with this documentation. 
 
-3.2.2 Summary of Sierra Leone's technology operational life times.
+5.2.2 Summary of Sierra Leone's technology operational life times.
 ----------
 Operational life dictates the time span over which a power plant is able to operate following its comission. 
 
@@ -137,11 +137,11 @@ Operational life dictates the time span over which a power plant is able to oper
 | Large Hydro (>100MW)               |                 50                 | Electricity Imports (CLSG)         |                  1                 |
 +------------------------------------+------------------------------------+------------------------------------+------------------------------------+
 
-3.2.4 Sierra Leone power-sector fixed costs.
+5.2.4 Sierra Leone power-sector fixed costs.
 ----------
 Fixed costs represent the costs associated with the operation and mainenance of power plants in Sierra Leone. For most technologies this value remaind constant over the modelling period, however for a few such as Solar-hybrid mini-grids this is projected to fall with time. For the costs associated with Karpowership value within the range shown within this table found in subsection *A3* of the Annex was used to estimate fixed costs. The fixed costs for transmission and distribution are modelled as 0 and can be found in subsection *A4* of the Annex.  
 
-3.2.5 Summary of variable costs in Sierra Leone 
+5.2.5 Summary of variable costs in Sierra Leone 
 ----------
 Variable costs are used to model the fuel costs which are scaled by the activity levels of different power-generating technologies. These costs are summaried in the table below, with the full data available through the data repository associated with this documentation.
 
@@ -163,6 +163,5 @@ Variable costs are used to model the fuel costs which are scaled by the activity
 | Natural Gas Imports                |        10.5        |        11.5        |        13.7        |        13.7        |
 +------------------------------------+--------------------+--------------------+--------------------+--------------------+
 
-
-
+5.2.6
 

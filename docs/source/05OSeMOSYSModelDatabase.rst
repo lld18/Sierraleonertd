@@ -170,10 +170,10 @@ Capital costs for power projects within Sierra Leone were collected from sources
 | Electricity Imports (CLSG)       |  0.0001   |  0.0001   |  0.0001   |  0.0001   |  0.0001   |  0.0001   |
 +----------------------------------+-----------+-----------+-----------+-----------+-----------+-----------+
 
-3.2.2 Summary of Sierra Leone transmission and distribution costs
+3.2.2 Summary of Sierra Leone transmission and distribution capital costs
 ---------
 
-The table below summarises the capital investment costs for Grid and Mini-grid transmission and distribution technologies in Sierra Leone.
+The table below summarises the capital investment costs used for modelling grid and mini-grid transmission and distribution technologies in Sierra Leone.
 
 .. table:: 
    :align:   center
@@ -307,5 +307,24 @@ Fixed costs represent the costs associated with the operation and mainenance of 
 +------------------------------------+-------------------------+----------------+----------------+----------------+----------------+----------------+
 
 
+3.2.2 Summary of Sierra Leone transmission and distribution fixed costs
+---------
+
+The table below summarises the operation and maintenance costs used for modelling for Grid and Mini-grid transmission and distribution technologies in Sierra Leone.
+
+.. table:: 
+   :align:   center
++----------------------------------+-----------+-----------+-----------+-----------+-----------+-----------+
+| Transmission and Distribution    | Transmission and  Distribution technology fixed costs ($/kW)          |
+| Type                             |                                                                       |
++                                  +-----------+-----------+-----------+-----------+-----------+-----------+
+|                                  |    2021   |    2022   |    2023   |    2030   |    2040   |    2050   |
++==================================+===========+===========+===========+===========+===========+===========+
+| Transmission (Grid)              |     0     |     0     |     0     |     0     |     0     |     0     |
++----------------------------------+-----------+-----------+-----------+-----------+-----------+-----------+
+| Distribution (Grid)              |     0     |     0     |     0     |     0     |     0     |     0     |
++----------------------------------+-----------+-----------+-----------+-----------+-----------+-----------+
+| Distribution (Mini-Grid)         |     0     |     0     |     0     |     0     |     0     |     0     |
++----------------------------------+-----------+-----------+-----------+-----------+-----------+-----------+
 
 

@@ -146,7 +146,7 @@ Fixed costs represent the costs associated with the operation and mainenance of 
 Variable costs are used to model the fuel costs which are scaled by the activity levels of different power-generating technologies. These costs are summaried in the table below, with the full data available through the data repository associated with this documentation.
 
 +------------------------------------+--------------------+--------------------+--------------------+--------------------+
-| Commodity                          |                                 Fuel Price ($/HJ)                                 |
+| Commodity                          |                                 Fuel Price ($/GJ)                                 |
 +                                    +--------------------+--------------------+--------------------+--------------------+
 |                                    |        2024        |        2030        |        2040        |        2050        |
 +------------------------------------+--------------------+--------------------+--------------------+--------------------+

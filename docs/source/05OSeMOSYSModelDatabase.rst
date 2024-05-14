@@ -93,16 +93,11 @@ In the model, all fuels and technologies are incorporated to OSeMOSYS taking int
 3.1 Main Data Inputs
 ++++++++++
 
-3.2.1 Sierra Leone power plant capital costs
+3.2.1 Sierra Leone power-sector capital costs
 ---------
-Capital costs for power projects within Sierra Leone were collected from sources reported in Table 3.1.2.These costs reflect the cost associated with the construction of these power plants in order to meet the national demands predicted by OSeMOSYS. This is assumed to remain constant for many technologies, however for rapidly developing technologies such as solar, learning curves account for decreases in the technological cost associated with increased uptake of solar. Similarly, for technologies with no associated capital costs such as Karpowership, this was set to →0 for modelling purposes. A summary of these costs can be found in subsection *A1* of the Annex, with the full data available through the data repository associated with this documentation. 
+Capital costs for power projects within Sierra Leone were collected from sources reported in Table 3.1.2.These costs reflect the cost associated with the construction of these power plants in order to meet the national demands predicted by OSeMOSYS. This is assumed to remain constant for many technologies, however for rapidly developing technologies such as solar, learning curves account for decreases in the technological cost associated with increased uptake of solar. Similarly, for technologies with no associated capital costs such as Karpowership, this was set to →0 for modelling purposes. A summary of these costs can be found in subsection *A1* of the Annex. Transmission and distribution costs were assumed to remain constant throughout the modelling period. A summary of this data is also available in subsection *A2* of the Annex section, with the full data available through the data repository associated with this documentation. 
 
-3.2.2 Sierra Leone transmission and distribution capital costs
----------
-
-Transmission and distribution costs were assumed to remain constant throughout the modelling period. A summary of this data is also available in subsection A2 of the Annex section, with the full data available through the data repository associated with this documentation. 
-
-3.2.3 Summary of Sierra Leone's technology operational life times.
+3.2.2 Summary of Sierra Leone's technology operational life times.
 ----------
 
 Operational life dictates the time span over which a power plant is able to operate following its comission. 
@@ -145,31 +140,8 @@ Operational life dictates the time span over which a power plant is able to oper
 | Large Hydro (>100MW)               |                 50                 | Electricity Imports (CLSG)         |                  1                 |
 +------------------------------------+------------------------------------+------------------------------------+------------------------------------+
 
-3.2.4 Sierra Leone power plant fixed costs.
+3.2.4 Sierra Leone power-sector fixed costs.
 ----------
 Fixed costs represent the costs associated with the operation and mainenance of power plants in Sierra Leone. For most technologies this value remaind constant over the modelling period, however for a few such as Solar-hybrid mini-grids this is projected to fall with time. For the costs associated with Karpowership value within the range shown within this table found in subsection *A3* of the Annex was used to estimate fixed costs. 
-
-
-
-
-3.2.2 Sierra Leone transmission and distribution fixed costs
----------
-
-The table below summarises the operation and maintenance costs used for modelling for Grid and Mini-grid transmission and distribution technologies in Sierra Leone.
-
-.. table:: 
-   :align:   center
-+----------------------------------+-----------+-----------+-----------+-----------+-----------+-----------+
-| Transmission and Distribution    | Transmission and  Distribution technology fixed costs ($/kW)          |
-| Type                             |                                                                       |
-+                                  +-----------+-----------+-----------+-----------+-----------+-----------+
-|                                  |    2021   |    2022   |    2023   |    2030   |    2040   |    2050   |
-+==================================+===========+===========+===========+===========+===========+===========+
-| Transmission (Grid)              |     0     |     0     |     0     |     0     |     0     |     0     |
-+----------------------------------+-----------+-----------+-----------+-----------+-----------+-----------+
-| Distribution (Grid)              |     0     |     0     |     0     |     0     |     0     |     0     |
-+----------------------------------+-----------+-----------+-----------+-----------+-----------+-----------+
-| Distribution (Mini-Grid)         |     0     |     0     |     0     |     0     |     0     |     0     |
-+----------------------------------+-----------+-----------+-----------+-----------+-----------+-----------+
 
 

@@ -107,6 +107,8 @@ Transmission and distribution costs were assumed to remain constant throughout t
 
 Operational life dictates the time span over which a power plant is able to operate following its comission. 
 
+.. table:: 
+   :align:   center
 +------------------------------------+------------------------------------+------------------------------------+------------------------------------+
 | Technology                         |      Operational Life (Years)      | Technology                         |      Operational Life (Years)      |
 +====================================+====================================+====================================+====================================+

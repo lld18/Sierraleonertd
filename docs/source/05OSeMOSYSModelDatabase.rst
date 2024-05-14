@@ -7,7 +7,6 @@ This section presents the main databases explored for building OSeMOSYS-SL, and 
 
 3.1.1 Energy balance of Sierra Leone
 ---------
-
 The energy balance is the most important source of data for the energy model of OSeMOSYS-SL. Projections for the sectoral energy demands within Sierra Leone were projected based on historic data made available by EDSA, and modelled using MAED as outlined in sections 2 and 3. The baseline historic energy balance is used as a basis for modelling is illustrated in Figure 3.1.1 below.
 
 .. figure:: img/SL_Hist_Demand.png
@@ -18,7 +17,6 @@ The energy balance is the most important source of data for the energy model of 
 
 3.1.2 Other key databases 
 ---------
-
 In the model, all fuels and technologies are incorporated to OSeMOSYS taking into account other sets, such as temporary divisions and emission, as well as the parameters. The latter are classified, among others, into costs, activity levels and infrastructure capacities. The establishment of these parameters was done after processing and reviewing the available national energy data. Table 3.1 summarizes the main souces of data for OSeMOSYS-CR. 
 
 *Table 3.1.2: Main data sources used in OSeMOSYS-CR.*
@@ -99,7 +97,6 @@ Capital costs for power projects within Sierra Leone were collected from sources
 
 3.2.2 Summary of Sierra Leone's technology operational life times.
 ----------
-
 Operational life dictates the time span over which a power plant is able to operate following its comission. 
 
 .. table:: 
@@ -143,5 +140,29 @@ Operational life dictates the time span over which a power plant is able to oper
 3.2.4 Sierra Leone power-sector fixed costs.
 ----------
 Fixed costs represent the costs associated with the operation and mainenance of power plants in Sierra Leone. For most technologies this value remaind constant over the modelling period, however for a few such as Solar-hybrid mini-grids this is projected to fall with time. For the costs associated with Karpowership value within the range shown within this table found in subsection *A3* of the Annex was used to estimate fixed costs. The fixed costs for transmission and distribution are modelled as 0 and can be found in subsection *A4* of the Annex.  
+
+3.2.5 Summary of variable costs in Sierra Leone 
+----------
+Variable costs are used to model the fuel costs which are scaled by the activity levels of different power-generating technologies. These costs are summaried in the table below, with the full data available through the data repository associated with this documentation.
+
++------------------------------------+--------------------+--------------------+--------------------+--------------------+
+| Commodity                          |                                 Fuel Price ($/HJ)                                 |
++                                    +--------------------+--------------------+--------------------+--------------------+
+|                                    |        2024        |        2030        |        2040        |        2050        |
++------------------------------------+--------------------+--------------------+--------------------+--------------------+
+|  Crude Oil Imports                 |        12.6        |        14.3        |        16.9        |       19.5         |
++------------------------------------+--------------------+--------------------+--------------------+--------------------+
+|  Biomass Extraction                |        1.6         |        1.6         |        1.6         |        1.6         |
++------------------------------------+--------------------+--------------------+--------------------+--------------------+
+|  Coal Imports                      |        5.3         |        5.5         |        5.9         |        5.9         |
++------------------------------------+--------------------+--------------------+--------------------+--------------------+
+|  LFO (Diesel) Imports              |        34.4        |        36.3        |        39.5        |        42.6        |
++------------------------------------+--------------------+--------------------+--------------------+--------------------+
+|  HFO (Heavy Fuel Oil) Imports      |        9.2         |        10.4        |        12.3        |        14.2        |
++------------------------------------+--------------------+--------------------+--------------------+--------------------+
+| Natural Gas Imports                |        10.5        |        11.5        |        13.7        |        13.7        |
++------------------------------------+--------------------+--------------------+--------------------+--------------------+
+
+
 
 

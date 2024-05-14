@@ -311,25 +311,25 @@ Energy demand scenarios are also driven by differences in estimates of Sierra Le
 
 variations in these two key growth parameters allow for the creation of a base scenario with predicted population and GDP growth rate, a high demand scenario with high GDP and high population growth rate, and a low demand scenario with low GDP and population growth rates. the historic baseline and MAED projections for these scenarios are illustrated in the graphs below.
 
-*(a)*
+*Figure 3.7: Projected energy demand for Sierra Leone under base, high and low growth scenarios*
 
 .. figure:: img/SL_Dem_Base.png
    :align:   center
    :width:   700 px
 
-*(b)*
+*(a)*
 
 .. figure:: img/SL_Dem_High.png
    :align:   center
    :width:   700 px
 
-*(c)*
+*(b)*
 
 .. figure:: img/SL_Dem_Low.png
    :align:   center
    :width:   700 px
 
+*(c)*
 
-
-
+*(a)*: base demand scenario, *(b)*: high demand (high GDP and population growth) scenario, *(c)*: low demand (low GDP and population growth) scenario
 

@@ -177,3 +177,22 @@ The following table summarises key fixed cost data for power-sector technologies
 +------------------------------------+-------------------------+----------------+----------------+----------------+----------------+----------------+
 | Electricity Imports (CLSG)         |                      175|             175|             175|             175|             175|             175|
 +------------------------------------+-------------------------+----------------+----------------+----------------+----------------+----------------+
+
+A4. Summary of fixed costs for tranmsission and distribution technologies in Sierra Leone.
+++++++++++
+
+The following table summarises the fixed costs used in the OSeMOSYS-SL modelling of Sierra Leone's power sector over key years. The full data for this is available through the associated data repository.
+
++----------------------------------+-----------+-----------+-----------+-----------+-----------+-----------+
+| Transmission and Distribution    | Transmission and  Distribution technology fixed costs ($/kW)          |
+| Type                             |                                                                       |
++                                  +-----------+-----------+-----------+-----------+-----------+-----------+
+|                                  |    2021   |    2022   |    2023   |    2030   |    2040   |    2050   |
++==================================+===========+===========+===========+===========+===========+===========+
+| Transmission (Grid)              |     0     |     0     |     0     |     0     |     0     |     0     |
++----------------------------------+-----------+-----------+-----------+-----------+-----------+-----------+
+| Distribution (Grid)              |     0     |     0     |     0     |     0     |     0     |     0     |
++----------------------------------+-----------+-----------+-----------+-----------+-----------+-----------+
+| Distribution (Mini-Grid)         |     0     |     0     |     0     |     0     |     0     |     0     |
++----------------------------------+-----------+-----------+-----------+-----------+-----------+-----------+
+

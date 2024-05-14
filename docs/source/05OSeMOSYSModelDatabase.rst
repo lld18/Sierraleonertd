@@ -137,11 +137,11 @@ Operational life dictates the time span over which a power plant is able to oper
 | Large Hydro (>100MW)               |                 50                 | Electricity Imports (CLSG)         |                  1                 |
 +------------------------------------+------------------------------------+------------------------------------+------------------------------------+
 
-5.2.4 Sierra Leone power-sector fixed costs.
+5.2.3 Sierra Leone power-sector fixed costs.
 ----------
 Fixed costs represent the costs associated with the operation and mainenance of power plants in Sierra Leone. For most technologies this value remaind constant over the modelling period, however for a few such as Solar-hybrid mini-grids this is projected to fall with time. For the costs associated with Karpowership value within the range shown within this table found in subsection *A3* of the Annex was used to estimate fixed costs. The fixed costs for transmission and distribution are modelled as 0 and can be found in subsection *A4* of the Annex.  
 
-5.2.5 Summary of variable costs in Sierra Leone 
+5.2.4 Summary of variable costs in Sierra Leone 
 ----------
 Variable costs are used to model the fuel costs associated with the activity of power generating technologies within the energy model. This cost is scaled with the level of activity and the fuel type associated with each technology. These costs are summaried in the table below, with the full data available through the data repository associated with this documentation.
 
@@ -163,12 +163,12 @@ Variable costs are used to model the fuel costs associated with the activity of 
 | Natural Gas Imports                |        10.5        |        11.5        |        13.7        |        13.7        |
 +------------------------------------+--------------------+--------------------+--------------------+--------------------+
 
-5.2.6 Emission Factors
+5.2.5 Emission Factors
 ----------
 Emissions factors are used to measure modelled power-sector development with regards to meeting emissions targets. Emissions are scaled by the ammount of each fuel used through the activity of each powe generating technology within the model. A summary of the CO₂ emissions factors for each fuel is shown in the table below. 
 
 +------------------------------------+--------------------------------------------------------------------------+
-| Fuel                               |           CO₂ Emission Factor (kgCO₂ /GJ)                                |
+| Fuel                               |           CO₂ Emission Factor (kgCO₂/GJ)                                |
 +====================================+==========================================================================+
 |  Crude Oil                         |                                   73.3                                   |
 +------------------------------------+--------------------------------------------------------------------------+

@@ -239,4 +239,4 @@ In the OSeMOSYS-SL model, efficiencies are used to represent the ratios between 
 
 5.2.6 Capacity Factors for power sector technologies in Sierra Leone
 ----------
-
+Capacity factors give ratio of the real energy produced by each technology during a set period as a factor of of the energy production for each technology if operating continuously over the same period. 

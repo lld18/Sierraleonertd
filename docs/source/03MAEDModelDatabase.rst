@@ -330,5 +330,6 @@ variations in these two key growth parameters allow for the creation of a base s
 *(c)*
 
 *Figure 3.7: Projected energy demand for Sierra Leone under base, high and low growth scenarios*
+
 *(a): base demand scenario, (b): high demand (high GDP and population growth) scenario, (c): low demand (low GDP and population growth) scenario, with historic baseline demand data used from 2018 to 2023, and projected demands shown for 2024 to 2050.*
 

@@ -95,7 +95,7 @@ In the model, all fuels and technologies are incorporated to OSeMOSYS taking int
 
 3.2.1 Sierra Leone power plant capital costs
 ---------
-Capital costs for power projects within Sierra Leone were collected from sources reported in Table 3.1.2.These costs reflect the cost associated with the construction of these power plants in order to meet the national demands predicted by OSeMOSYS. This is assumed to remain constant for many technologies, however for rapidly developing technologies such as solar, learning curves account for decreases in the technological cost associated with increased uptake of solar. Similarly, for technologies with no associated capital costs such as Karpowership, this was set to →0 for modelling purposes. A summary of these costs can be found in subsection A1 of the Annex, with the full data available through the data repository associated with this documentation. 
+Capital costs for power projects within Sierra Leone were collected from sources reported in Table 3.1.2.These costs reflect the cost associated with the construction of these power plants in order to meet the national demands predicted by OSeMOSYS. This is assumed to remain constant for many technologies, however for rapidly developing technologies such as solar, learning curves account for decreases in the technological cost associated with increased uptake of solar. Similarly, for technologies with no associated capital costs such as Karpowership, this was set to →0 for modelling purposes. A summary of these costs can be found in subsection *A1* of the Annex, with the full data available through the data repository associated with this documentation. 
 
 3.2.2 Sierra Leone transmission and distribution capital costs
 ---------
@@ -147,7 +147,7 @@ Operational life dictates the time span over which a power plant is able to oper
 
 3.2.4 Sierra Leone power plant fixed costs.
 ----------
-Fixed costs represent the costs associated with the operation and mainenance of power plants in Sierra Leone. For most technologies, however for a few such as Solar-hybrid mini-grids, this is projected to fall with time. A value within the range shown within this table was used for the modelling of fixed costs for Karpowership.
+Fixed costs represent the costs associated with the operation and mainenance of power plants in Sierra Leone. For most technologies this value remaind constant over the modelling period, however for a few such as Solar-hybrid mini-grids this is projected to fall with time. For the costs associated with Karpowership value within the range shown within this table found in subsection *A3* of the Annex was used to estimate fixed costs. 
 
 
 

@@ -2,7 +2,7 @@
 =======================================
 The following section contains tables of data used in the OSeMOSYS-SL energy modelling for Sierra Leone. The full data sets are available through the data repository associated with this documentation, with the data shown in this annex summarising this data across key years. 
 
-A1. Sunmmary of capital costs for power-sector technologies in Sierra Leone.
+A1. Summary of capital costs for power-sector technologies in Sierra Leone.
 ++++++++++
 
 The following table summarises key capital cost data for power-sector technologies used in the OSeMOSYS-SL modelling across key years between 2021 and 2050.

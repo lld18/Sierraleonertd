@@ -7,11 +7,14 @@ A1. Summary of capital costs for power-sector technologies in Sierra Leone.
 
 The following table summarises key capital cost data for power-sector technologies used in the OSeMOSYS-SL modelling across key years between 2021 and 2050.
 
+.. table:: 
+   :align:   center
 +----------------------------------+-----------+-----------+-----------+-----------+-----------+-----------+ 
 | Power Plant Type                 | Power plant technology capital costs ($/kW)                           | 
 |                                  |                                                                       | 
 +                                  +-----------+-----------+-----------+-----------+-----------+-----------+
-|                                  | 2021      | 2022      | 2023      | 2030      | 2040      | 2050      | +==================================+===========+===========+===========+===========+===========+===========+
+|                                  | 2021      | 2022      | 2023      | 2030      | 2040      | 2050      | 
++==================================+===========+===========+===========+===========+===========+===========+
 | Biomass Power Plant              | 2500      | 2500      | 2500      | 2500      | 2500      | 2500      | 
 +----------------------------------+-----------+-----------+-----------+-----------+-----------+-----------+
 | Coal Power Plant                 | 3739      | 3739      | 3739      | 3739      | 3739      | 3739      | 
@@ -82,11 +85,14 @@ A2. Summary of capital costs for transmission and distribution infrastructure in
 
 The following table summarises the capital investment costs used for modelling grid and mini-grid transmission and distribution technologies in Sierra Leone in the OSeMOSYS-SL model.
 
+.. table:: 
+   :align:   center
 +----------------------------------+-----------+-----------+-----------+-----------+-----------+-----------+ 
 | Transmission and Distribution    | Transmission and Distribution technology capital costs ($/kW)         |
 | Type                             |                                                                       | 
 +                                  +-----------+-----------+-----------+-----------+-----------+-----------+ 
-|                                  | 2021      | 2022      | 2023      | 2030      | 2040      | 2050      | +==================================+===========+===========+===========+===========+===========+===========+ 
+|                                  | 2021      | 2022      | 2023      | 2030      | 2040      | 2050      | 
++==================================+===========+===========+===========+===========+===========+===========+ 
 | Transmission (Grid)              | 365       | 365       | 365       | 365       | 365       | 365       | 
 +----------------------------------+-----------+-----------+-----------+-----------+-----------+-----------+
 | Distribution (Grid)              | 2502      | 2502      | 2502      | 2502      | 2502      | 2502      |
@@ -99,6 +105,8 @@ A3. Summary of fixed operation and maintenance costs for power-sector technologi
 
 The following table summarises key fixed cost data for power-sector technologies used in the OSeMOSYS-SL modelling across key years between 2021 and 2050.
 
+.. table:: 
+   :align:   center
 +------------------------------------+-------------------------+----------------+----------------+----------------+----------------+----------------+
 | Power Plant Type                   | Power plant technology capital costs ($/kW)                                                                  |
 |                                    |                                                                                                              |

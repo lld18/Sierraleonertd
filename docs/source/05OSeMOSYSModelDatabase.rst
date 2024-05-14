@@ -165,10 +165,10 @@ Variable costs are used to model the fuel costs associated with the activity of 
 
 5.2.6 Emission Factors
 ----------
-Emissions factors are used to measure modelled power-sector deve3lopment with regards to meeting emissions targets. Enmissions are scaled by the ammount of each fuel used through the activity of each powe generating technology within the model. A summary of the CO<sub>2</sub> emissions factors for each fuel is shown in the table below. 
+Emissions factors are used to measure modelled power-sector deve3lopment with regards to meeting emissions targets. Enmissions are scaled by the ammount of each fuel used through the activity of each powe generating technology within the model. A summary of the CO <sub>2</sub> emissions factors for each fuel is shown in the table below. 
 
 +------------------------------------+--------------------------------------------------------------------------+
-| Fuel                               |           CO<sub>2</sub> Emission Factor (kgCO<sub>2</sub>/GJ)           |
+| Fuel                               |           CO <sub>2</sub> Emission Factor (kgCO <sub>2</sub> /GJ)           |
 +====================================+==========================================================================+
 |  Crude Oil                         |                                   73.3                                   |
 +------------------------------------+--------------------------------------------------------------------------+

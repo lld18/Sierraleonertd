@@ -143,7 +143,7 @@ Fixed costs represent the costs associated with the operation and mainenance of 
 
 5.2.5 Summary of variable costs in Sierra Leone 
 ----------
-Variable costs are used to model the fuel costs which are scaled by the activity levels of different power-generating technologies. These costs are summaried in the table below, with the full data available through the data repository associated with this documentation.
+Variable costs are used to model the fuel costs associated with the activity of power generating technologies within the energy model. This cost is scaled with the level of activity and the fuel type associated with each technology. These costs are summaried in the table below, with the full data available through the data repository associated with this documentation.
 
 +------------------------------------+--------------------+--------------------+--------------------+--------------------+
 | Commodity                          |                                 Fuel Price ($/GJ)                                 |
@@ -165,7 +165,7 @@ Variable costs are used to model the fuel costs which are scaled by the activity
 
 5.2.6 Emission Factors
 ----------
-Emissions factors are used to measure modelled power-sector deve3lopment with regards to meeting emissions targets. 
+Emissions factors are used to measure modelled power-sector deve3lopment with regards to meeting emissions targets. Enmissions are scaled by the ammount of each fuel used through the activity of each powe generating technology within the model. A summary of the CO<sub>2</sub> emissions factors for each fuel is shown in the table below. 
 
 +------------------------------------+--------------------------------------------------------------------------+
 | Fuel                               |           CO<sub>2</sub> Emission Factor (kgCO<sub>2</sub>/GJ)           |

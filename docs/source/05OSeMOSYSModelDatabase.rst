@@ -237,7 +237,7 @@ In the OSeMOSYS-SL model, efficiencies are used to represent the ratios between 
 | All Electricity Imports            |                                   100                                    |
 +------------------------------------+--------------------------------------------------------------------------+
 
-Table 5.2.5 (a) Operational efficiencies for power generating technologies in Sierra Leone*
+*Table 5.2.5 (a) Operational efficiencies for power generating technologies in Sierra Leone*
 
 +------------------------------------+--------------+--------------+--------------+--------------+--------------+--------------+
 | Technology                         |                                       Efficiency (%)                                    |

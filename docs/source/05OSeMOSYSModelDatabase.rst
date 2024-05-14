@@ -85,7 +85,7 @@ In the model, all fuels and technologies are incorporated to OSeMOSYS taking int
 | Co-benefits  |            | Coefficients             |                                                                              |
 |              |            |                          |                                                                              |
 +--------------+------------+--------------------------+------------------------------------------------------------------------------+
-*Table 5.1.2: Main data sources used in OSeMOSYS-CR.*
+*Table 5.1.2 Main data sources used in OSeMOSYS-CR.*
 
 5.2 Main Data Inputs
 ++++++++++
@@ -135,7 +135,7 @@ Operational life dictates the time span over which a power plant is able to oper
 +------------------------------------+------------------------------------+------------------------------------+------------------------------------+
 | Large Hydro (>100MW)               |                 50                 | Electricity Imports (CLSG)         |                  1                 |
 +------------------------------------+------------------------------------+------------------------------------+------------------------------------+
-*Table 5.2.1: (a) Operational life of power generation technologies in Sierra Leone*
+*Table 5.2.1 (a) Operational life of power generation technologies in Sierra Leone*
 
 .. table:: 
    :align:   center
@@ -148,7 +148,7 @@ Operational life dictates the time span over which a power plant is able to oper
 +------------------------------------+------------------------------------+
 |  Trasnmission (Mini-Gri)           |                70                  |
 +------------------------------------+------------------------------------+
-*Table 5.2.1: (b) Operational life of power transmission and distribution technologies in Sierra Leone*
+*Table 5.2.1 (b) Operational life of power transmission and distribution technologies in Sierra Leone*
 
 5.2.2 Sierra Leone power-sector fixed costs.
 ----------
@@ -175,6 +175,7 @@ Variable costs are used to model the fuel costs associated with the activity of 
 +------------------------------------+--------------------+--------------------+--------------------+--------------------+
 | Natural Gas Imports                |        10.5        |        11.5        |        13.7        |        13.7        |
 +------------------------------------+--------------------+--------------------+--------------------+--------------------+
+*Table 5.2.3 Variable Costs associated with fuel use in power generation in Sierra Leone.*
 
 5.2.4 Emission Factors
 ----------
@@ -195,7 +196,7 @@ Emissions factors are used to measure modelled power-sector development with reg
 +------------------------------------+--------------------------------------------------------------------------+
 | Natural Gas                        |                                   56.1                                   |
 +------------------------------------+--------------------------------------------------------------------------+
-*Table 5.2.4  CO₂ Emission Factors for Fuels used in power generation in Sierra Leone.
+*Table 5.2.4 CO₂ Emission Factors for Fuels used in power generation in Sierra Leone.*
 
 5.2.5 Efficiency
 ----------
@@ -214,4 +215,4 @@ In the OSeMOSYS-SL model, efficiencies are used to represent the ratios between 
 +------------------------------------+--------------+--------------+--------------+--------------+--------------+--------------+
 | Distribution (Mini-Grid)           |      56      |      58      |      50      |      53      |      56      |      60      |
 +------------------------------------+--------------+--------------+--------------+--------------+--------------+--------------+
-*Table 5.2.5: (b) Operational efficiencies for Transmission and Technologies in Sierra Leone*
+*Table 5.2.5 (b) Operational efficiencies for Transmission and Technologies in Sierra Leone*

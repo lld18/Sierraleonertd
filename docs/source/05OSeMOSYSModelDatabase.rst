@@ -7,7 +7,7 @@ This section presents the main databases explored for building OSeMOSYS-SL, and 
 
 5.1.1 Energy balance of Sierra Leone
 ---------
-The energy balance is the most important source of data for the energy model of OSeMOSYS-SL. Projections for the sectoral energy demands within Sierra Leone were projected based on historic data made available by EDSA, and modelled using MAED as outlined in sections 2 and 3. The baseline historic energy balance is used as a basis for modelling is illustrated in Figure 5.1.1 below.
+The energy balance is the most important source of data for the energy model of OSeMOSYS-SL. Projections for the sectoral energy demands within Sierra Leone were projected based on historic data made available by EDSA, and modelled using MAED as outlined in sections 2 and 3. The baseline historic energy balance is used as a basis for modelling is illustrated in Figure 5.2 below.
 
 .. figure:: img/SL_Hist_Demand.png
    :align:   center
@@ -17,7 +17,7 @@ The energy balance is the most important source of data for the energy model of 
 
 5.1.2 Other key databases 
 ---------
-In the model, all fuels and technologies are incorporated to OSeMOSYS taking into account other sets, such as temporary divisions and emission, as well as the parameters. The latter are classified, among others, into costs, activity levels and infrastructure capacities. The establishment of these parameters was done after processing and reviewing the available national energy data. Table 5.1 summarizes the main souces of data for OSeMOSYS-CR. 
+In the model, all fuels and technologies are incorporated to OSeMOSYS taking into account other sets, such as temporary divisions and emission, as well as the parameters. The latter are classified, among others, into costs, activity levels and infrastructure capacities. The establishment of these parameters was done after processing and reviewing the available national energy data. Table 5.1.2 summarizes the main souces of data for OSeMOSYS-CR. 
 
 *Table 5.1.2: Main data sources used in OSeMOSYS-CR.*
 
@@ -88,14 +88,14 @@ In the model, all fuels and technologies are incorporated to OSeMOSYS taking int
 |              |            |                          |                                                                              |
 +--------------+------------+--------------------------+------------------------------------------------------------------------------+
 
-5.1 Main Data Inputs
+5.2 Main Data Inputs
 ++++++++++
 
 5.2.1 Sierra Leone power-sector capital costs
 ---------
-Capital costs for power projects within Sierra Leone were collected from sources reported in Table 5.1.2.These costs reflect the cost associated with the construction of these power plants in order to meet the national demands predicted by OSeMOSYS. This is assumed to remain constant for many technologies, however for rapidly developing technologies such as solar, learning curves account for decreases in the technological cost associated with increased uptake of solar. Similarly, for technologies with no associated capital costs such as Karpowership, this was set to →0 for modelling purposes. A summary of these costs can be found in subsection *A1* of the Annex. Transmission and distribution costs were assumed to remain constant throughout the modelling period. A summary of this data is also available in subsection *A2* of the Annex section, with the full data available through the data repository associated with this documentation. 
+Capital costs for power projects within Sierra Leone were collected from sources reported in Table 5.1.1.These costs reflect the cost associated with the construction of these power plants in order to meet the national demands predicted by OSeMOSYS. This is assumed to remain constant for many technologies, however for rapidly developing technologies such as solar, learning curves account for decreases in the technological cost associated with increased uptake of solar. Similarly, for technologies with no associated capital costs such as Karpowership, this was set to →0 for modelling purposes. A summary of these costs can be found in subsection *A1* of the Annex. Transmission and distribution costs were assumed to remain constant throughout the modelling period. A summary of this data is also available in subsection *A2* of the Annex section, with the full data available through the data repository associated with this documentation. 
 
-5.2.2 Summary of Sierra Leone's technology operational life times.
+5.2.1 Summary of Sierra Leone's technology operational life times.
 ----------
 Operational life dictates the time span over which a power plant is able to operate following its comission. 
 
@@ -136,7 +136,7 @@ Operational life dictates the time span over which a power plant is able to oper
 +------------------------------------+------------------------------------+------------------------------------+------------------------------------+
 | Large Hydro (>100MW)               |                 50                 | Electricity Imports (CLSG)         |                  1                 |
 +------------------------------------+------------------------------------+------------------------------------+------------------------------------+
-*Table 5.2.2.1: Operational life of power generation technologies in Sierra Leone*
+*Table 5.2.1: (a) Operational life of power generation technologies in Sierra Leone*
 
 .. table:: 
    :align:   center
@@ -149,13 +149,13 @@ Operational life dictates the time span over which a power plant is able to oper
 +------------------------------------+------------------------------------+
 |  Trasnmission (Mini-Gri)           |                70                  |
 +------------------------------------+------------------------------------+
-*Table 5.2.2.2: Operational life of power transmission and distribution technologies in Sierra Leone*
+*Table 5.2.1: (b) Operational life of power transmission and distribution technologies in Sierra Leone*
 
-5.2.3 Sierra Leone power-sector fixed costs.
+5.2.2 Sierra Leone power-sector fixed costs.
 ----------
 Fixed costs represent the costs associated with the operation and mainenance of power plants in Sierra Leone. For most technologies this value remaind constant over the modelling period, however for a few such as Solar-hybrid mini-grids this is projected to fall with time. For the costs associated with Karpowership value within the range shown within this table found in subsection *A3* of the Annex was used to estimate fixed costs. The fixed costs for transmission and distribution are modelled as 0 and can be found in subsection *A4* of the Annex.  
 
-5.2.4 Summary of variable costs in Sierra Leone 
+5.2.3 Summary of variable costs in Sierra Leone 
 ----------
 Variable costs are used to model the fuel costs associated with the activity of power generating technologies within the energy model. This cost is scaled with the level of activity and the fuel type associated with each technology. These costs are summaried in the table below, with the full data available through the data repository associated with this documentation.
 
@@ -177,7 +177,7 @@ Variable costs are used to model the fuel costs associated with the activity of 
 | Natural Gas Imports                |        10.5        |        11.5        |        13.7        |        13.7        |
 +------------------------------------+--------------------+--------------------+--------------------+--------------------+
 
-5.2.5 Emission Factors
+5.2.4 Emission Factors
 ----------
 Emissions factors are used to measure modelled power-sector development with regards to meeting emissions targets. Emissions are scaled by the ammount of each fuel used through the activity of each powe generating technology within the model. A summary of the CO₂ emissions factors for each fuel is shown in the table below. 
 
@@ -197,5 +197,18 @@ Emissions factors are used to measure modelled power-sector development with reg
 | Natural Gas                        |                                   56.1                                   |
 +------------------------------------+--------------------------------------------------------------------------+
 
-5.2.6 Efficiency
+5.2.5 Efficiency
 ----------
+In the OSeMOSYS-SL model, efficiencies are used to represent the ratios between energy input from fuel sources, and the electricity output from each power generating technology as an input-output activity ratio. For renewable resources, this is considered to be 100%, however for other generation technologies, as well as transmission and distribution, this value can vary, and can represent inefficiencies within the power sector. For Sierra Leone, data suggest moderate increases in the efficiency of the distribution infrastructure as shown in table 5.2.5 below.
+
++------------------------------------+--------------+--------------+--------------+--------------+--------------+--------------+
+| Technology                         |                                             Efficiency (%)                              |
++                                    +--------------+--------------+--------------+--------------+--------------+--------------+
+|                                    |     2021     |     2022     |     2023     |     2030     |     2040     |     2050     |
++====================================+==============+==============+==============+==============+==============+==============+ 
+| Transmission (Grid)                |      95      |      95      |      95      |      95      |      95      |      95      |
++------------------------------------+--------------+--------------+--------------+--------------+--------------+--------------+
+| Distribution (Grid)                |      56      |      58      |      50      |      53      |      56      |      60      |
++------------------------------------+--------------+--------------+--------------+--------------+--------------+--------------+
+| Distribution (Mini-Grid)           |      56      |      58      |      50      |      53      |      56      |      60      |
++------------------------------------+--------------+--------------+--------------+--------------+--------------+--------------+

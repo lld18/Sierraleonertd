@@ -177,7 +177,7 @@ Variable costs are used to model the fuel costs associated with the activity of 
 +------------------------------------+--------------------+--------------------+--------------------+--------------------+
 *Table 5.2.3 Variable Costs associated with fuel use in power generation in Sierra Leone.*
 
-5.2.4 Emission Factors
+5.2.4 Fuel emission factors 
 ----------
 Emissions factors are used to measure modelled power-sector development with regards to meeting emissions targets. Emissions are scaled by the ammount of each fuel used through the activity of each powe generating technology within the model. A summary of the CO₂ emissions factors for each fuel is shown in the table below. 
 
@@ -198,7 +198,7 @@ Emissions factors are used to measure modelled power-sector development with reg
 +------------------------------------+--------------------------------------------------------------------------+
 *Table 5.2.4 CO₂ Emission Factors for Fuels used in power generation in Sierra Leone.*
 
-5.2.5 Efficiency
+5.2.5 Efficiencies in Sierra Leone's power sector
 ----------
 In the OSeMOSYS-SL model, efficiencies are used to represent the ratios between energy input from fuel sources, and the electricity output from each power generating technology as an input-output activity ratio. For renewable resources, this is considered to be 100%, however for other generation technologies, as well as transmission and distribution, this value can vary, and can represent inefficiencies within the power sector. For Sierra Leone, data suggest moderate increases in the efficiency of the distribution infrastructure as shown in table 5.2.5 below.
 
@@ -236,3 +236,7 @@ In the OSeMOSYS-SL model, efficiencies are used to represent the ratios between 
 | Distribution (Mini-Grid)           |      56      |      58      |      50      |      53      |      56      |      60      |
 +------------------------------------+--------------+--------------+--------------+--------------+--------------+--------------+
 *Table 5.2.5 (b) Operational efficiencies for transmission and distribution technologies in Sierra Leone*
+
+5.2.6 Capacity Factors for power sector technologies in Sierra Leone
+----------
+

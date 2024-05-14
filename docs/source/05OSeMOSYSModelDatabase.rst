@@ -233,7 +233,7 @@ Operational life dictates the time span over which a power plant is able to oper
 
 3.2.4 Summary of Sierra Leone power plant fixed costs.
 ----------
-Fixed costs represent the costs associated with the operation and mainenance of power plants in Sierra Leone. 
+Fixed costs represent the costs associated with the operation and mainenance of power plants in Sierra Leone. For most technologies, however for a few such as Solar-hybrid mini-grids, this is projected to fall with time. A value within the range shown within this table was used for the modelling of fixed costs for Karpowership.
 
 +------------------------------------+-------------------------+----------------+----------------+----------------+----------------+----------------+
 | Power Plant Type                   | Power plant technology capital costs ($/kW)                                                                  |
@@ -305,5 +305,7 @@ Fixed costs represent the costs associated with the operation and mainenance of 
 +------------------------------------+-------------------------+----------------+----------------+----------------+----------------+----------------+
 | Electricity Imports (CLSG)         |                      175|             175|             175|             175|             175|             175|
 +------------------------------------+-------------------------+----------------+----------------+----------------+----------------+----------------+
+
+
 
 

@@ -93,11 +93,11 @@ In the model, all fuels and technologies are incorporated to OSeMOSYS taking int
 3.1 Main Data Inputs
 ++++++++++
 
-3.2.1 Summary of Sierra Leone power plant capital costs
+3.2.1 Sierra Leone power plant capital costs
 ---------
 Capital costs for power projects within Sierra Leone were collected from sources reported in Table 3.1.2.These costs reflect the cost associated with the construction of these power plants in order to meet the national demands predicted by OSeMOSYS. This is assumed to remain constant for many technologies, however for rapidly developing technologies such as solar, learning curves account for decreases in the technological cost associated with increased uptake of solar. Similarly, for technologies with no associated capital costs such as Karpowership, this was set to →0 for modelling purposes. A summary of these costs can be found in subsection A1 of the Annex, with the full data available through the data repository associated with this documentation. 
 
-3.2.2 Summary of Sierra Leone transmission and distribution capital costs
+3.2.2 Sierra Leone transmission and distribution capital costs
 ---------
 
 Transmission and distribution costs were assumed to remain constant throughout the modelling period. A summary of this data is also available in subsection A2 of the Annex section, with the full data available through the data repository associated with this documentation. 

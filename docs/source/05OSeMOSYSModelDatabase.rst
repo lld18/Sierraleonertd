@@ -168,7 +168,7 @@ Variable costs are used to model the fuel costs associated with the activity of 
 Emissions factors are used to measure modelled power-sector development with regards to meeting emissions targets. Emissions are scaled by the ammount of each fuel used through the activity of each powe generating technology within the model. A summary of the CO₂ emissions factors for each fuel is shown in the table below. 
 
 +------------------------------------+--------------------------------------------------------------------------+
-| Fuel                               |           CO₂ Emission Factor (kgCO₂ /GJ)           |
+| Fuel                               |           CO₂ Emission Factor (kgCO₂ /GJ)                                |
 +====================================+==========================================================================+
 |  Crude Oil                         |                                   73.3                                   |
 +------------------------------------+--------------------------------------------------------------------------+

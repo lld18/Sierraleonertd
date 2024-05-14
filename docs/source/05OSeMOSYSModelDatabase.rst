@@ -19,8 +19,6 @@ The energy balance is the most important source of data for the energy model of 
 ---------
 In the model, all fuels and technologies are incorporated to OSeMOSYS taking into account other sets, such as temporary divisions and emission, as well as the parameters. The latter are classified, among others, into costs, activity levels and infrastructure capacities. The establishment of these parameters was done after processing and reviewing the available national energy data. Table 5.1.2 summarizes the main souces of data for OSeMOSYS-CR. 
 
-*Table 5.1.2: Main data sources used in OSeMOSYS-CR.*
-
 .. table:: 
    :align:   center
 +--------------+------------+--------------------------+------------------------------------------------------------------------------+
@@ -87,6 +85,7 @@ In the model, all fuels and technologies are incorporated to OSeMOSYS taking int
 | Co-benefits  |            | Coefficients             |                                                                              |
 |              |            |                          |                                                                              |
 +--------------+------------+--------------------------+------------------------------------------------------------------------------+
+*Table 5.1.2: Main data sources used in OSeMOSYS-CR.*
 
 5.2 Main Data Inputs
 ++++++++++
@@ -196,10 +195,13 @@ Emissions factors are used to measure modelled power-sector development with reg
 +------------------------------------+--------------------------------------------------------------------------+
 | Natural Gas                        |                                   56.1                                   |
 +------------------------------------+--------------------------------------------------------------------------+
+*Table 5.2.4  CO₂ Emission Factors for Fuels used in power generation in Sierra Leone.
 
 5.2.5 Efficiency
 ----------
 In the OSeMOSYS-SL model, efficiencies are used to represent the ratios between energy input from fuel sources, and the electricity output from each power generating technology as an input-output activity ratio. For renewable resources, this is considered to be 100%, however for other generation technologies, as well as transmission and distribution, this value can vary, and can represent inefficiencies within the power sector. For Sierra Leone, data suggest moderate increases in the efficiency of the distribution infrastructure as shown in table 5.2.5 below.
+
+
 
 +------------------------------------+--------------+--------------+--------------+--------------+--------------+--------------+
 | Technology                         |                                             Efficiency (%)                              |
@@ -212,3 +214,4 @@ In the OSeMOSYS-SL model, efficiencies are used to represent the ratios between 
 +------------------------------------+--------------+--------------+--------------+--------------+--------------+--------------+
 | Distribution (Mini-Grid)           |      56      |      58      |      50      |      53      |      56      |      60      |
 +------------------------------------+--------------+--------------+--------------+--------------+--------------+--------------+
+*Table 5.2.5: (b) Operational efficiencies for Transmission and Technologies in Sierra Leone*

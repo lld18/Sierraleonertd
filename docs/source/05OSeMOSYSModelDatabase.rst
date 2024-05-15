@@ -175,6 +175,7 @@ Variable costs are used to model the fuel costs associated with the activity of 
 +------------------------------------+--------------------+--------------------+--------------------+--------------------+
 | Natural Gas Imports                |        10.5        |        11.5        |        13.7        |        13.7        |
 +------------------------------------+--------------------+--------------------+--------------------+--------------------+
+|br|
 *Table 5.2.3 Variable Costs associated with fuel use in power generation in Sierra Leone.*
 
 5.2.4 Fuel emission factors 

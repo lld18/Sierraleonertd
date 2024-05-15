@@ -307,6 +307,7 @@ Residual and committed capacities are used to reflect existing or committed powe
 | Small Hydropower (<10MW) MW                       |          3,000       |
 +---------------------------------------------------+----------------------+
 | Wind (*MW*), Biomass (*PJ*), Coal (*PJ*), Natural |            0         |
++                                                   +                      + 
 | Gas (*PJ*), Crude Oil (*PJ*), Uranium (*PJ*)      |                      |
 +---------------------------------------------------+----------------------+
 

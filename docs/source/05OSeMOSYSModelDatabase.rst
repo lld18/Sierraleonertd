@@ -297,10 +297,9 @@ Residual and committed capacities are used to reflect existing or committed powe
 5.2.9 Historic Generation in Sierra Leone
 ----------
 
-.. figure:: img/SL_His_Gen.png
+.. figure:: img/SL_Hist_Gen.png
    :align:   center
    :width:   700 px
-   :class: figure-with-margin
 
 *Figure 5.1.1: Summary of Sierra Leone's historic generation*
 

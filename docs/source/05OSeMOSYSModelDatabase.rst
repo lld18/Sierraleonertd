@@ -302,7 +302,7 @@ Historic power-sector generation and energy imports in Sierra Leone are summaris
    :align:   center
    :width:   700 px
 
-*Figure 5.1.1: Graph showing Sierra Leone's historic generation between 2018 and 2023 in TWh*
+*Figure 5.1.1 Graph showing Sierra Leone's historic generation between 2018 and 2023 in TWh*
 
 +---------------------------------+--------+--------+--------+--------+--------+--------+
 | Technology                      | 2018   | 2019   | 2020   | 2021   | 2022   | 2023   |

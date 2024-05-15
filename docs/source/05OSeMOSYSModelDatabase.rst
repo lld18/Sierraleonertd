@@ -287,6 +287,16 @@ Capacity factors for transmission and distribution are assumed to be 100% for mo
 
 Residual and committed capacities are used to reflect existing or committed power plant capacities in Sierra Leone. These are based on the baseline historic generation capacity in Sierra Leone, power plants and transmission and distribution projects that the government of Sierra Leone has committed to meet.
 
+
+
+
+
+
+
+5.2.9 Historic Generation in Sierra Leone
+----------
+
+
 +---------------------------------+--------+--------+--------+--------+--------+--------+
 | Technology                      | 2018   | 2019   | 2020   | 2021   | 2022   | 2023   |
 +=================================+========+========+========+========+========+========+

@@ -279,3 +279,10 @@ Capacity factors give ratio of the real energy produced by each technology durin
 | Hydropower with Reservoir         | 36                                    | Electricity Imports (CLSG)        | 100                                   |
 +-----------------------------------+---------------------------------------+-----------------------------------+---------------------------------------+
 *Table 5.2.6 Capacity Factors for Sierra Leone's power sector technologies.*
+
+Capacity factors for transmission and distribution are assumed to be 100% for modelling purposes. 
+
+5.2.7 Residual capacities and committed capacities for Power plants in Sierra Leone.
+----------
+
+Residual and committed capacities are used to reflect existing or committed power plant capacities in Sierra Leone. 

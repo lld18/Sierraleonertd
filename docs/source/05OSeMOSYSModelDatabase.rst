@@ -292,6 +292,8 @@ Residual and committed capacities are used to reflect existing or committed powe
 
 5.2.8 Resource potentials in Sierra Leone
 ----------
+The table below summarises key resource potentials for Sierra Leone's power sector. This is dominated by solar and hydro power, with wind currently not considered a viable option of the development of Sierra Leone's power sector, and no known viable domestic fossil fuel reserves. Biomass has also been set to 0 due to the closure of the recently developed Addax Biomass power plant due to insufficient biomass avialability.  
+
 
 +---------------------------------------------------+----------------------+
 | Resource Units                                    |  Resource Potential  |
@@ -310,7 +312,7 @@ Residual and committed capacities are used to reflect existing or committed powe
 +                                                   +                      + 
 | Gas (*PJ*), Crude Oil (*PJ*), Uranium (*PJ*)      |                      |
 +---------------------------------------------------+----------------------+
-
+*Table 5.2.8 Domestic resource potentials for power generation in Sierra Leone.* 
 
 
 5.2.9 Historic Generation in Sierra Leone

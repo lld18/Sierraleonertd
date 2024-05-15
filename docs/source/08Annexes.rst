@@ -183,6 +183,8 @@ A4. Summary of fixed costs for tranmsission and distribution technologies in Sie
 
 The following table summarises the fixed costs used in the OSeMOSYS-SL modelling of Sierra Leone's power sector over key years. The full data for this is available through the associated data repository.
 
+.. table:: 
+   :align:   center
 +----------------------------------+-----------+-----------+-----------+-----------+-----------+-----------+
 | Transmission and Distribution    | Transmission and  Distribution technology fixed costs ($/kW)          |
 | Type                             |                                                                       |
@@ -199,7 +201,10 @@ The following table summarises the fixed costs used in the OSeMOSYS-SL modelling
 A5. Summary of residual capacities and committed capacities in Sierra Leone
 ++++++++++
 The following table outlines key residual and committed capacities in Sierra Leone in order to properly represent the current an planned power system for the OSeMOSYS-SL model. The complete data set for this is available through the associated data repository.
-+------
+
+
+.. table:: 
+   :align:   center
 +-------------------------------------+--------------+--------------+--------------+--------------+--------------+--------------+
 | Technology                          |                        Residual and Committed Capacities (MW)                           |
 +                                     +--------------+--------------+--------------+--------------+--------------+--------------+
@@ -244,6 +249,8 @@ A6. Summary of historic power generation in Sierra Leone between 2018 and 2023
 ++++++++++
 The following table summarises historic power generation in Sierra Leone with generation aggregated into separate technologies. The full data for this is available through the associated data repository.
 
+.. table:: 
+   :align:   center
 +---------------------------------+--------+--------+--------+--------+--------+--------+
 | Technology                      | 2018   | 2019   | 2020   | 2021   | 2022   | 2023   |
 +=================================+========+========+========+========+========+========+

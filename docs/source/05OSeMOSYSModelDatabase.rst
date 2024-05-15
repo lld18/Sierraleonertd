@@ -326,4 +326,4 @@ Residual and committed capacities are used to reflect existing or committed powe
 +---------------------------------+--------+--------+--------+--------+--------+--------+
 | Mini-Grid (Diesel Hybrid)       | 0.000  | 0.000  | 0.000  | 100    | 190    | 190    |
 +---------------------------------+--------+--------+--------+--------+--------+--------+
-
+*Table 2.5.9 Historic generation in Sierra Leone between 2018 and 2023.*

@@ -301,7 +301,7 @@ Residual and committed capacities are used to reflect existing or committed powe
    :align:   center
    :width:   700 px
    :class: figure-with-margin
-   .figure-with-margin {
+.figure-with-margin {
     margin-bottom: 20px
 
 *Figure 5.1.1: Summary of Sierra Leone's historic generation*

@@ -317,35 +317,10 @@ The table below summarises key resource potentials for Sierra Leone's power sect
 
 5.2.9 Historic Generation in Sierra Leone
 ----------
-Historic power-sector generation and energy imports in Sierra Leone are summarised in the table and figure below. Mini-grids are not currently included in the OSeMOSYS-SL model, however have been included for future modelling efforts. 
+Historic power-sector generation and energy imports in Sierra Leone are visualised in the  figure below, whilst a table of this data can be found in subsection A6 of the Annex. Mini-grids are not currently included in the OSeMOSYS-SL model, however have been included for future modelling efforts. 
 
 .. figure:: img/SL_Hist_Gen.png
    :align:   center
    :width:   700 px
 
 *Figure 5.1.1 Graph showing Sierra Leone's historic generation between 2018 and 2023 in TWh*
-
-+---------------------------------+--------+--------+--------+--------+--------+--------+
-| Technology                      | 2018   | 2019   | 2020   | 2021   | 2022   | 2023   |
-+=================================+========+========+========+========+========+========+
-| LFO (Diesel) Power Plant        | 13,155 | 7,607  | 4,182  | 4,324  | 1,714  | 3,791  |
-+---------------------------------+--------+--------+--------+--------+--------+--------+
-| HFO Power Plant                 | 74,865 | 6,647  | 2,904  | 3,764  | 1,714  | 3,791  |
-+---------------------------------+--------+--------+--------+--------+--------+--------+
-| Karpowership                    | 0.000  | 246,712| 246,712| 246,712| 261,177| 232,246|
-+---------------------------------+--------+--------+--------+--------+--------+--------+
-| Bumbuna I Hydropower            | 209,488| 222,128| 222,360| 219,073| 213,335| 228,057|
-+---------------------------------+--------+--------+--------+--------+--------+--------+
-| Small Hydro (<10MW)             | 13,640 | 14,652 | 13,813 | 14,035 | 2,634  | 2,481  |
-+---------------------------------+--------+--------+--------+--------+--------+--------+
-| Solar PV (Utility)              | 0.000  | 0.000  | 0.000  | 0.000  | 989    | 7,155  |
-+---------------------------------+--------+--------+--------+--------+--------+--------+
-| CLSG Imports                    | 0.000  | 0.000  | 0.000  | 0.000  | 104,034| 210,113|
-+---------------------------------+--------+--------+--------+--------+--------+--------+
-| Mini-Grid (Solar) with Storage  | 0.000  | 0.000  | 0.000  | 192    | 383    | 383    |
-+---------------------------------+--------+--------+--------+--------+--------+--------+
-| Mini-Grid (Solar Hybrid)        | 0.000  | 0.000  | 0.000  | 229    | 465    | 465    |
-+---------------------------------+--------+--------+--------+--------+--------+--------+
-| Mini-Grid (Diesel Hybrid)       | 0.000  | 0.000  | 0.000  | 100    | 190    | 190    |
-+---------------------------------+--------+--------+--------+--------+--------+--------+
-*Table 2.5.9 Historic generation in Sierra Leone between 2018 and 2023 in MWh.*

@@ -286,7 +286,7 @@ Capacity factors for transmission and distribution are assumed to be 100% for mo
 5.2.7 Residual capacities and committed capacities for Power plants in Sierra Leone.
 ----------
 
-Residual and committed capacities are used to reflect existing or committed power plant capacities in Sierra Leone. These are based on the baseline historic generation capacity in Sierra Leone, power plants and transmission and distribution projects that the government of Sierra Leone has committed to meet. This historic and committed capacity data is used to ensure that the OSeMOSYS-SL model accurately represents Sierra Leone's planned power development strategies, whilst allowing OSeMOSYS to optomise capacity required to meet remaining energy demand. A summary of these residual capacities can be found in subsection A5 of the Annex.
+Residual and committed capacities are used to reflect existing or committed power plant capacities and policies in Sierra Leone. These are based on the baseline historic generation capacity in Sierra Leone, power plants and transmission and distribution projects that the government of Sierra Leone has committed to meet. This historic and committed capacity data is used to ensure that the OSeMOSYS-SL model accurately represents Sierra Leone's planned power development strategies and policies, whilst allowing OSeMOSYS to optomise capacity required to meet remaining energy demand. A summary of these residual capacities can be found in subsection A5 of the Annex.
 
 5.2.8 Resource potentials in Sierra Leone
 ----------

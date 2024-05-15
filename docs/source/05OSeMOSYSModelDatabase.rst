@@ -286,17 +286,33 @@ Capacity factors for transmission and distribution are assumed to be 100% for mo
 5.2.7 Residual capacities and committed capacities for Power plants in Sierra Leone.
 ----------
 
-Residual and committed capacities are used to reflect existing or committed power plant capacities in Sierra Leone. These are based on the baseline historic generation capacity in Sierra Leone, power plants and transmission and distribution projects that the government of Sierra Leone has committed to meet.
+Residual and committed capacities are used to reflect existing or committed power plant capacities in Sierra Leone. These are based on the baseline historic generation capacity in Sierra Leone, power plants and transmission and distribution projects that the government of Sierra Leone has committed to meet. This historic and committed capacity data is used to ensure that the OSeMOSYS-SL model accurately represents Sierra Leone's planned power development strategies, whilst allowing OSeMOSYS to optomise capacity required to meet remaining energy demand. 
 
 
 
-
+5.2.8 Resource potentials in Sierra Leone
+----------
+| Resource Units                          |  Resource Potential  |
++-----------------------------------------+----------------------+
+| Solar PV MW                             |         171,000      |
++-----------------------------------------+----------------------+
+| Solar CSP MW                            |         22,500       |
++-----------------------------------------+----------------------+
+| Large Hydropower(>100MW) MW             |           461        |
++-----------------------------------------+----------------------+
+| Medium Hydropower (10-100MW) MW         |           990        |
++-----------------------------------------+----------------------+
+| Small Hydropower (<10MW) MW             |          3,000       |
++-----------------------------------------+----------------------+
+| Wind MW, Biomass PJ, Coal PJ, Natural   |            0         |
+| Gas PJ, Crude Oil PJ, Uranium PJ        |                      |
++-----------------------------------------+----------------------+
 
 
 
 5.2.9 Historic Generation in Sierra Leone
 ----------
-Historic power-sector generation and energy imports in Sierra Leone are summarised in the table and figure below. Mini-grids are not currently included in the OSeMOSYS-SL model, however have been included for future modelling efforts. This historic and commitment data is used to ensure that the OSeMOSYS-SL model accurately represents Sierra Leone's planned power development strategies, whilst allowing OSeMOSYS to optomise capacity required to meet remaining energy demand. 
+Historic power-sector generation and energy imports in Sierra Leone are summarised in the table and figure below. Mini-grids are not currently included in the OSeMOSYS-SL model, however have been included for future modelling efforts. 
 
 .. figure:: img/SL_Hist_Gen.png
    :align:   center

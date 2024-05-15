@@ -1,4 +1,4 @@
-6. OSeMOSYS model: scenarios
+6. OSeMOSYS model: Scenarios
 =======================================
 
 OSeMOSYS-SL started by estimating a base case, and subsequently, including the effect of a set of policies defined by stakeholders in a decarbonisation scenarios. This exercise allowed the creation of the following scenarios: 

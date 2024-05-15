@@ -296,6 +296,7 @@ Residual and committed capacities are used to reflect existing or committed powe
 
 5.2.9 Historic Generation in Sierra Leone
 ----------
+Historic power-sector generation and energy imports in Sierra Leone are summarised in the table and figure below. Mini-grids are not currently included in the OSeMOSYS-SL model, however have been included for future modelling efforts. This historic and commitment data is used to ensure that the OSeMOSYS-SL model accurately represents Sierra Leone's planned power development strategies, whilst allowing OSeMOSYS to optomise capacity required to meet remaining energy demand. 
 
 .. figure:: img/SL_Hist_Gen.png
    :align:   center

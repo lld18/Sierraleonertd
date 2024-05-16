@@ -24,9 +24,6 @@ In the model, all fuels and technologies are incorporated to OSeMOSYS taking int
 +---------------+---------------------------------+--------------------------+------------------------------------------------------------------------------------+
 | Category      | Source                          | Data                     | Descriptions and assumption made                                                   |
 +===============+=================================+==========================+====================================================================================+
-| Energy        |                                 | Energy balance           |                                                                                    |
-| System        |                                 |                          |                                                                                    |
-+---------------+---------------------------------+--------------------------+------------------------------------------------------------------------------------+
 | Demand        | MAED                            | Final energy             | Final energy demand for the three sectors modelled in the OSeMOSYS-SL model        |
 |               |                                 |                          | was calculated through the modelling outlined for the Sierra Leone MAED            |
 |               |                                 |                          | Demand model outlined in sections 2 and 3.                                         |

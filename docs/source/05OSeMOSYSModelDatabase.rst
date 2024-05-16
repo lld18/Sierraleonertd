@@ -44,11 +44,22 @@ In the model, all fuels and technologies are incorporated to OSeMOSYS taking int
 +               +                                 +                          +                                                                                    +
 |               | Scientific Journals             |                          |                                                                                    |
 +               +---------------------------------+--------------------------+------------------------------------------------------------------------------------+
-|               | IRENA                           | Fixed Costs              |                                                                                    |
+|               | IRENA                           | Fixed Costs              | Fixed costs for each technology highlight the operational and maintenance costs    |
+|               |                                 |                          | for each technology excluding the fuel costs. This allows the OSeMOSYS-SL model to |
+|               |                                 |                          | include these costs in the cost-optomization in order to establish the least-cost  |
+|               |                                 |                          | approach that meets predicted energy demand in Sierra Loene.                       |
 +               +                                 +                          +                                                                                    +
 +               +                                 +                          +                                                                                    +
 |               | Sierra Leone Ministry of Energy |                          |                                                                                    |
-|               |                                 |                          |                                                                                    |
++               +                                 +                          +                                                                                    +
++               +                                 +                          +                                                                                    +
+|               | The Sierra Leone Telegraph      |                          |                                                                                    |
++               +                                 +                          +                                                                                    +
++               +                                 +                          +                                                                                    +
+|               | TEMBA                           |                          |                                                                                    |
++               +                                 +                          +                                                                                    +
++               +                                 +                          +                                                                                    +
+|               | Scientific Journals             |                          |                                                                                    |
 +               +---------------------------------+--------------------------+------------------------------------------------------------------------------------+
 |               |                                 | Variable Costs           |                                                                                    |
 |               |                                 |                          |                                                                                    |

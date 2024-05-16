@@ -61,9 +61,16 @@ In the model, all fuels and technologies are incorporated to OSeMOSYS taking int
 +               +                                 +                          +                                                                                    +
 |               | Scientific Journals             |                          |                                                                                    |
 +               +---------------------------------+--------------------------+------------------------------------------------------------------------------------+
-|               |                                 | Variable Costs           |                                                                                    |
-|               |                                 |                          |                                                                                    |
-|               |                                 |                          |                                                                                    |
+|               | IRENA                           | Variable Costs           | The variable costs for each technology are the costs associated with fuel use for  |
+|               |                                 |                          | each technology. As such, this cost scales with technology activity rates rather   |
+|               |                                 |                          | than with capacity for its use in establishing the least cost power development    |
+|               |                                 |                          | strategy.                                                                          |
++               +                                 +                          +                                                                                    +
++               +                                 +                          +                                                                                    +
+|               | GlobalPetrolPrices              |                          |                                                                                    |
++               +                                 +                          +                                                                                    +
++               +                                 +                          +                                                                                    +
+|               | World Bank                      |                          |                                                                                    |
 +---------------+---------------------------------+--------------------------+------------------------------------------------------------------------------------+
 | Technology    | IRENA                           | Operational Lifetimes    |                                                                                    |
 | Variables     | Scientific Journals             |                          |                                                                                    |

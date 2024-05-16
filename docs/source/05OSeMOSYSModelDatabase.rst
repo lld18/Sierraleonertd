@@ -95,8 +95,8 @@ In the model, all fuels and technologies are incorporated to OSeMOSYS taking int
 |               |                                 |                          | fuels in order to enable accounting of these emissions in order to meet key        |
 |               |                                 |                          | policy regarding emissions targets.                                                |
 +               +---------------------------------+--------------------------+------------------------------------------------------------------------------------+
-|               | Sierra Leone Ministry of Energy | Capacity Factors         |                                                                                    |
-|               |                                 |                          |                                                                                    |
+|               | Sierra Leone Ministry of Energy | Capacity Factors         | Capacity factors are used to represent the activity of each technology as a factor |
+|               |                                 |                          | of its potential generation if operated continuously. This was calculated from     |
 +               +                                 +                          +                                                                                    +
 +               +                                 +                          +                                                                                    +
 |               | EDSA                            |                          |                                                                                    |

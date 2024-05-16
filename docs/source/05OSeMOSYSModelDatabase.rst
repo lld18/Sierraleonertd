@@ -31,9 +31,17 @@ In the model, all fuels and technologies are incorporated to OSeMOSYS taking int
 |               |                              |                          | was calculated through the modelling outlined for the Sierra Leone MAED            |
 |               |                              |                          | Demand model outlined in sections 2 and 3.                                         |
 +---------------+------------------------------+--------------------------+------------------------------------------------------------------------------------+
-|Technology     | IRENA                        | Capital Costs            | Capital cost data for each technology used in the OSeMOSYS-SL model informs the    |
-|Costs          | Ministry of Energy           |                          | model with regards costs associated with the construction of additional capacity   |
-|               | NREL                         |                          | allowing for cost-optomization of the least cost power development strategy.       |
+| Technology    | IRENA                        | Capital Costs            | Capital cost data for each technology used in the OSeMOSYS-SL model informs the    |
+| Costs         |                              |                          | model with regards costs associated with the construction of additional capacity   |
+|               |                              |                          | allowing for cost-optomization of the least cost power development strategy.       |
++               +                              +                          +                                                                                    +
++               +                              +                          +                                                                                    +
+|               | Ministry of Energy           |                          |                                                                                    |
++               +                              +                          +                                                                                    +
++               +                              +                          +                                                                                    +
+|               | NREL                         |                          |                                                                                    |
++               +                              +                          +                                                                                    +
++               +                              +                          +                                                                                    +
 |               | Scientific Journals          |                          |                                                                                    |
 +               +------------------------------+--------------------------+------------------------------------------------------------------------------------+
 |               |                              | Fixed Costs              |                                                                                    |

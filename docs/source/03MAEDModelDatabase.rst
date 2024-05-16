@@ -52,6 +52,7 @@ The table below summarises the main sources and assumptions recommended for the 
 +----------------+------------+----------------------------+----------------------------------------------------------------------------+
 | Sectoral       | SSL Report | Industry (Total)           | Total industrial share of Sierra Leone's GDP. Assumed constant over        |
 +                +            +                            +                                                                            + 
++                +            +                            +                                                                            + 
 | shares of GDP  |            |                            | the modelling period.                                                      |
 |                |            |                            |                                                                            |
 +                +------------+----------------------------+----------------------------------------------------------------------------+

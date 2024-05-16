@@ -110,8 +110,17 @@ In the model, all fuels and technologies are incorporated to OSeMOSYS taking int
 +               +                                 +                          +                                                                                    +
 |               | Scientific Journals             |                          |                                                                                    |
 +               +---------------------------------+--------------------------+------------------------------------------------------------------------------------+
-|               |                                 | Residual Capacities      |                                                                                    |
+|               | Sierra Leone Ministry of Energy | Residual Capacities      |                                                                                    |
 |               |                                 |                          |                                                                                    |
++               +                                 +                          +                                                                                    +
++               +                                 +                          +                                                                                    +
+|               | IRENASTAT                       |                          |                                                                                    |
++               +                                 +                          +                                                                                    +
++               +                                 +                          +                                                                                    +
+|               | EDSA                            |                          |                                                                                    |
++               +                                 +                          +                                                                                    +
++               +                                 +                          +                                                                                    +
+|               | SLEWRC                          |                          |                                                                                    |
 +               +---------------------------------+--------------------------+------------------------------------------------------------------------------------+
 |               |                                 | Potentials and Reserves  |                                                                                    |
 |               |                                 |                          |                                                                                    |

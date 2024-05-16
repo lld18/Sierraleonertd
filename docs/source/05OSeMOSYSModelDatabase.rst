@@ -90,8 +90,10 @@ In the model, all fuels and technologies are incorporated to OSeMOSYS taking int
 +               +                                 +                          +                                                                                    +
 |               | EIA                             |                          |                                                                                    |
 +               +---------------------------------+--------------------------+------------------------------------------------------------------------------------+
-|               |                                 | Emissions Factors        |                                                                                    |
-|               |                                 |                          |                                                                                    |
+|               | IPCC                            | Emissions Factors        | Emission factors attribute a CO₂ emmission factor to the use of each               |
+|               |                                 |                          | carbon-emitting fuel. This scales based on the activity and use of each of these   |
+|               |                                 |                          | fuels in order to enable accounting of these emissions in order to meet key        |
+|               |                                 |                          | policy regarding emissions targets.                                                |
 +               +---------------------------------+--------------------------+------------------------------------------------------------------------------------+
 |               |                                 | Capacity Factors         |                                                                                    |
 |               |                                 |                          |                                                                                    |

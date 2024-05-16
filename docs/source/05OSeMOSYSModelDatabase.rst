@@ -95,8 +95,20 @@ In the model, all fuels and technologies are incorporated to OSeMOSYS taking int
 |               |                                 |                          | fuels in order to enable accounting of these emissions in order to meet key        |
 |               |                                 |                          | policy regarding emissions targets.                                                |
 +               +---------------------------------+--------------------------+------------------------------------------------------------------------------------+
-|               |                                 | Capacity Factors         |                                                                                    |
+|               | Sierra Leone Ministry of Energy | Capacity Factors         |                                                                                    |
 |               |                                 |                          |                                                                                    |
++               +                                 +                          +                                                                                    +
++               +                                 +                          +                                                                                    +
+|               | EDSA                            |                          |                                                                                    |
++               +                                 +                          +                                                                                    +
++               +                                 +                          +                                                                                    +
+|               | World Bank                      |                          |                                                                                    |
++               +                                 +                          +                                                                                    +
++               +                                 +                          +                                                                                    +
+|               | IRENA                           |                          |                                                                                    |
++               +                                 +                          +                                                                                    +
++               +                                 +                          +                                                                                    +
+|               | Scientific Journals             |                          |                                                                                    |
 +               +---------------------------------+--------------------------+------------------------------------------------------------------------------------+
 |               |                                 | Residual Capacities      |                                                                                    |
 |               |                                 |                          |                                                                                    |

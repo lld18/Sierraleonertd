@@ -80,8 +80,15 @@ In the model, all fuels and technologies are incorporated to OSeMOSYS taking int
 +               +                                 +                          +                                                                                    +
 |               | Scientific Journals             |                          |                                                                                    |
 +               +---------------------------------+--------------------------+------------------------------------------------------------------------------------+
-|               |                                 | Efficiencies             |                                                                                    |
-|               |                                 |                          |                                                                                    |
+|               | IRENA                           | Efficiencies             | Efficiencies are used to represent the efficiency with which energy from primary   |
+|               |                                 |                          | sources such as fuels are converted into usable energy required to meet final      |
+|               |                                 |                          | energy demand.                                                                     |
++               +                                 +                          +                                                                                    +
++               +                                 +                          +                                                                                    +
+|               | EDSA                            |                          |                                                                                    |
++               +                                 +                          +                                                                                    +
++               +                                 +                          +                                                                                    +
+|               | EIA                             |                          |                                                                                    |
 +               +---------------------------------+--------------------------+------------------------------------------------------------------------------------+
 |               |                                 | Emissions Factors        |                                                                                    |
 |               |                                 |                          |                                                                                    |

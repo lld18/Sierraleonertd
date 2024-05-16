@@ -27,13 +27,9 @@ In the model, all fuels and technologies are incorporated to OSeMOSYS taking int
 | Energy       |            | Energy balance           |                                                                              |
 | System       |            |                          |                                                                              |
 +--------------+------------+--------------------------+------------------------------------------------------------------------------+
-| Demand       |            | Final energy             |                                                                              |
-|              |            |                          |                                                                              |
-+              +------------+--------------------------+------------------------------------------------------------------------------+
-|              |            | Transport                |                                                                              |
-|              |            | (passengers and cargo)   |                                                                              |
-|              |            |                          |                                                                              |
-|              |            |                          |                                                                              |
+| Demand       | MAED       | Final energy             | Final energy demand for the three sectors modelled in the OSeMOSYS-SL model  |
+|              |            |                          | was calculated through the modelling outlined for the Sierra Leone MAED      |
+|              |            |                          | Demand model outlined in sections 2 and 3.                                   |
 +--------------+------------+--------------------------+------------------------------------------------------------------------------+
 |Electricity   | IEA        | Capital and fixed costs  | Based on national data. The costs were assumed constant in the whole period, |
 |technologies  |            |                          | except for solar and wind systems, which decrease according to international |

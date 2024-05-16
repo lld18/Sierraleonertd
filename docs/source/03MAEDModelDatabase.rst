@@ -37,19 +37,19 @@ The table below summarises the main sources and assumptions recommended for the 
 |                | World Bank | Participating Labour       | Portion of Sierra Leone's population participating in the labour force.    |
 |                | Statistica | Force (%)                  | Assumed constant over the modelling period.                                |
 |                |            |                            |                                                                            |
-+----------------+------------+--------------------------+----------------------------------------------------------------------------+
++----------------+------------+----------------------------+----------------------------------------------------------------------------+
 | GDP            | World Bank | GDP (US$ Millions)         | Sierra Leone's Gross Domestic Product (GDP) in the initial year of         |
 | parameters     |            |                            | modelling.                                                                 |
 |                |            |                            |                                                                            |
-+                +------------+--------------------------+----------------------------------------------------------------------------+
++                +------------+----------------------------+----------------------------------------------------------------------------+
 |                | IMF        | GDP Growth Rate (%)        | The growth rate for Sierra Leone's GDP over the modelling period.          |
 |                |            |                            | Assumed constant beyond current projections.                               |
 |                |            |                            |                                                                            |
-+----------------+------------+--------------------------+----------------------------------------------------------------------------+
++----------------+------------+----------------------------+----------------------------------------------------------------------------+
 | Sectoral       | SSL Report | Industry (Total)           | Total industrial share of Sierra Leone's GDP. Assumed constant over        |
 | shares of GDP  |            |                            | the modelling period.                                                      |
 |                |            |                            |                                                                            |
-+                +------------+--------------------------+----------------------------------------------------------------------------+
++                +------------+----------------------------+----------------------------------------------------------------------------+
 |                | SSL Report | Industry (Agriculture)     | Agriculture's share of Sierra Leone's GDP. Assumed constant over the       |
 |                |            |                            | modelling period.                                                          |
 |                |            |                            |                                                                            |

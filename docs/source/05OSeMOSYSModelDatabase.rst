@@ -38,15 +38,6 @@ In the model, all fuels and technologies are incorporated to OSeMOSYS taking int
 |              |            | Capacity and activity    | Based on the operational performance registered by the National Energy       |
 |              |            |                          | Control Centre. Operational life is according to national plans.             |
 +--------------+------------+--------------------------+------------------------------------------------------------------------------+
-|Transport     |            | Capital and fixed costs  | Based on the Ministry of Finance (Hacienda) database. We assumed that cost of|
-|technologies  |            |                          | electric vehicles decreases (Bloomberg). For cargo transport, we review cost |
-|              |            |                          | of companies like Nicola and Tesla.                                          |
-+              +------------+--------------------------+------------------------------------------------------------------------------+
-|              |            | Capacity and activity    | Based on the performance register by national surveys, concession for public |
-|              |            |                          | transport and the annual Vehicle technical review (RITEVE). Operational life |
-|              |            |                          | is according to manufacturers and the residual capacity decreases linearly   | 
-|              |            |                          | and proportionally with this value.                                          |
-+--------------+------------+--------------------------+------------------------------------------------------------------------------+
 |Fuel prices   | IEA        | Fossil Fuels and Biofuels| Based on current tariffs and projection uses in national plans. It considers |
 |              |            |                          | international prices and the tariff given by the regulator in Costa Rica     |
 |              |            |                          | (ARESEP) and trend provide by international Energy Agency (IEA).             |
@@ -68,20 +59,10 @@ In the model, all fuels and technologies are incorporated to OSeMOSYS taking int
 +              +------------+--------------------------+------------------------------------------------------------------------------+
 |              |            | Hydrogen                 |                                                                              |
 +--------------+------------+--------------------------+------------------------------------------------------------------------------+
-| Sustainable  |            | Urban plans and mobility |                                                                              |
-| mobility     |            |                          |                                                                              |
-|              |            |                          |                                                                              |
-+--------------+------------+--------------------------+------------------------------------------------------------------------------+
-| Cargo        |            | Electric cargo train and |                                                                              |
-| transport    |            | Logistic                 |                                                                              |
-|              |            |                          |                                                                              |
-+--------------+------------+--------------------------+------------------------------------------------------------------------------+
 | Emissions    | IPCC       |  Factors                 | Based on the IPCC and the national GHG inventory.                            |
 +--------------+------------+--------------------------+------------------------------------------------------------------------------+
-| Co-benefits  |            | Coefficients             |                                                                              |
-|              |            |                          |                                                                              |
-+--------------+------------+--------------------------+------------------------------------------------------------------------------+
-*Table 5.1.2 Main data sources used in OSeMOSYS-CR.*
+
+*Table 5.1.2 Main data sources used in OSeMOSYS-SL.*
 
 5.2 Main Data Inputs
 ++++++++++

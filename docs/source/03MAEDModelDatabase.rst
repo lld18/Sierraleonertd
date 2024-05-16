@@ -49,6 +49,8 @@ The table below summarises the main sources and assumptions recommended for the 
 |                | IMF        | GDP Growth Rate (%)        | The growth rate for Sierra Leone's GDP over the modelling period.          |
 |                |            |                            | Assumed constant beyond current projections.                               |
 |                |            |                            |                                                                            |
++                +            +                            +                                                                            + 
++                +            +                            +                                                                            + 
 +----------------+------------+----------------------------+----------------------------------------------------------------------------+
 | Sectoral       | SSL Report | Industry (Total)           | Total industrial share of Sierra Leone's GDP. Assumed constant over        |
 | shares of GDP  |            |                            | the modelling period.                                                      |

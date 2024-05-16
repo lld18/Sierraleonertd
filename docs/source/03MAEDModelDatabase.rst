@@ -6,150 +6,155 @@ This section presents a summary of the key socioeconomic data inputs for the MAE
 +++++++++
 The table below summarises the main sources and assumptions recommended for the data used in the MAED study for Sierra Leone.
 
++----------------+------------+----------------------------+----------------------------------------------------------------------------+
+| Category       | Source     | Data                       | Descriptions and assumption made                                           |
++================+============+============================+============================================================================+
+| Population     | World Bank | Sierra Leone Population    | Population of Sierra Leone in initial year of modelling.                   |
++                +            +                            +                                                                            + 
+| parameters     | IMF        | (Millions)                 |                                                                            |
++                +------------+----------------------------+----------------------------------------------------------------------------+
+|                | World      | Population Growth Rate     | Population growth rate in Sierra Leone. Assumed constant beyond            |
+|                | Population | (%)                        | current projections.                                                       |
+|                | Review     |                            |                                                                            |
++                +------------+----------------------------+----------------------------------------------------------------------------+
+|                | Statistica | Urban Population (%)       | Portion of Sierra Leone's population reported to live in urban households  |
+|                |            |                            | in initial year of modelling.                                              |
+|                |            |                            |                                                                            |
++                +------------+----------------------------+----------------------------------------------------------------------------+
+|                | SSL Reports| Persons per Urban          | Number of individuals per urban household in Sierra Leone.                 |
+|                |            | Household (Capita)         | Assumed constant over the modelling period.                                |
+|                |            |                            |                                                                            |
++                +------------+----------------------------+----------------------------------------------------------------------------+
+|                | SSL Reports| Persons per Rural          | Number of individuals per rural household in Sierra Leone.                 |
+|                |            | Household (Capita)         | Assumed constant over the modelling period                                 |
+|                |            |                            |                                                                            |
++                +------------+----------------------------+----------------------------------------------------------------------------+
+|                | World Bank | Potential Labour Force (%) | Portion of Sierra Leone's population with potential to participate         |
++                +            +                            +                                                                            + 
+|                | Statistica |                            | in the labour force. Assumed constant over the modelling period.           |
+|                |            |                            |                                                                            |
++                +------------+----------------------------+----------------------------------------------------------------------------+
+|                | World Bank | Participating Labour       | Portion of Sierra Leone's population participating in the labour force.    |
+|                | Statistica | Force (%)                  | Assumed constant over the modelling period.                                |
+|                |            |                            |                                                                            |
 +----------------+------------+--------------------------+----------------------------------------------------------------------------+
-| Category       | Source     | Data                     | Descriptions and assumption made                                           |
-+================+============+==========================+============================================================================+
-| Population     | World Bank | Sierra Leone Population  | Population of Sierra Leone in initial year of modelling.                   |
-| parameters     | IMF        | (Millions)               |                                                                            |
+| GDP            | World Bank | GDP (US$ Millions)         | Sierra Leone's Gross Domestic Product (GDP) in the initial year of         |
+| parameters     |            |                            | modelling.                                                                 |
+|                |            |                            |                                                                            |
 +                +------------+--------------------------+----------------------------------------------------------------------------+
-|                | World      | Population Growth Rate   | Population growth rate in Sierra Leone. Assumed constant beyond            |
-|                | Population | (%)                      | current projections.                                                       |
-|                | Review     |                          |                                                                            |
-+                +------------+--------------------------+----------------------------------------------------------------------------+
-|                | Statistica | Urban Population (%)     | Portion of Sierra Leone's population reported to live in urban households  |
-|                |            |                          | in initial year of modelling.                                              |
-|                |            |                          |                                                                            |
-+                +------------+--------------------------+----------------------------------------------------------------------------+
-|                | SSL Reports| Persons per Urban        | Number of individuals per urban household in Sierra Leone.                 |
-|                |            | Household (Capita)       | Assumed constant over the modelling period.                                |
-|                |            |                          |                                                                            |
-+                +------------+--------------------------+----------------------------------------------------------------------------+
-|                | SSL Reports| Persons per Rural        | Number of individuals per rural household in Sierra Leone.                 |
-|                |            | Household (Capita)       | Assumed constant over the modelling period                                 |
-|                |            |                          |                                                                            |
-+                +------------+--------------------------+----------------------------------------------------------------------------+
-|                | World Bank | Potential Labour Force   | Portion of Sierra Leone's population with potential to participate         |
-|                | Statistica | (%)                      | in the labour force. Assumed constant over the modelling period.           |
-|                |            |                          |                                                                            |
-+                +------------+--------------------------+----------------------------------------------------------------------------+
-|                | World Bank | Participating Labour     | Portion of Sierra Leone's population participating in the labour force.    |
-|                | Statistica | Force (%)                | Assumed constant over the modelling period.                                |
-|                |            |                          |                                                                            |
+|                | IMF        | GDP Growth Rate (%)        | The growth rate for Sierra Leone's GDP over the modelling period.          |
+|                |            |                            | Assumed constant beyond current projections.                               |
+|                |            |                            |                                                                            |
 +----------------+------------+--------------------------+----------------------------------------------------------------------------+
-| GDP            | World Bank | GDP (US$ Millions)       | Sierra Leone's Gross Domestic Product (GDP) in the initial year of         |
-| parameters     |            |                          | modelling.                                                                 |
-|                |            |                          |                                                                            |
+| Sectoral       | SSL Report | Industry (Total)           | Total industrial share of Sierra Leone's GDP. Assumed constant over        |
+| shares of GDP  |            |                            | the modelling period.                                                      |
+|                |            |                            |                                                                            |
 +                +------------+--------------------------+----------------------------------------------------------------------------+
-|                | IMF        | GDP Growth Rate (%)      | The growth rate for Sierra Leone's GDP over the modelling period.          |
-|                |            |                          | Assumed constant beyond current projections.                               |
-|                |            |                          |                                                                            |
-+----------------+------------+--------------------------+----------------------------------------------------------------------------+
-| Sectoral       | SSL Report | Industry (Total)         | Total industrial share of Sierra Leone's GDP. Assumed constant over        |
-| shares of GDP  |            |                          | the modelling period.                                                      |
-|                |            |                          |                                                                            |
-+                +------------+--------------------------+----------------------------------------------------------------------------+
-|                | SSL Report | Industry (Agriculture)   | Agriculture's share of Sierra Leone's GDP. Assumed constant over the       |
-|                |            |                          | modelling period.                                                          |
-|                |            |                          |                                                                            |
-+                +------------+--------------------------+----------------------------------------------------------------------------+
-|                | SSL Report | Industry (Mining)        | Mining's share of Sierra Leone's GDP. Assumed constant over the modelling  |
-|                |            |                          | period.                                                                    |
-|                |            |                          |                                                                            |
-|                |            |                          |                                                                            |
-+                +------------+--------------------------+----------------------------------------------------------------------------+
-|                | SSL Report | Services                 | Services share of Sierra Leone's GDP. Assumed constant over the modelling  |
-|                |            |                          | period.                                                                    |
-|                |            |                          |                                                                            |
-|                |            |                          |                                                                            |
-+----------------+------------+--------------------------+----------------------------------------------------------------------------+
-| Baseline       | EDSA       | Industry (Total)         | Total energy consumption for Sierra Leone's Industrial sector.             |
-| Sectoral       |            |                          |                                                                            |
-| Energy         |            |                          |                                                                            |
-| Consumption    |            |                          |                                                                            |
-+                +------------+--------------------------+----------------------------------------------------------------------------+
-|                | EDSA       | Industry (Agriculture)   | Energy consumption for Sierra Leone's Industry Agriculture sector,         |
-|                |            |                          | assumed to equal 2% of Sierra Leones energy consumption.                   |
-|                |            |                          |                                                                            |
-+                +------------+--------------------------+----------------------------------------------------------------------------+
-|                | EDSA       | Industry (Mining)        | Energy consumption for Sierra Leone's Industry Mining sector,              |
-|                |            |                          | assumed to cover the share of Sierra Leone's Industrial sector             |
-|                |            |                          | not accounted for by Sierra Leone's Agriculture sector.                    |
-+                +------------+--------------------------+----------------------------------------------------------------------------+
-|                | EDSA       | Services                 | Energy consumption for Sierra Leone's Services sector.                     |
-|                |            |                          |                                                                            |
-|                |            |                          |                                                                            |
-+                +------------+--------------------------+----------------------------------------------------------------------------+
-|                | EDSA       | Household (Total)        | Energy consumption for all households in Sierra Leone.                     |
-|                |            |                          |                                                                            |
-|                |            |                          |                                                                            |
-+                +------------+--------------------------+----------------------------------------------------------------------------+
-|                | EDSA       | Household (Urban)        | Energy consumption for urban households in Sierra Leone. Assumed to equal  |
-|                |            |                          | 95% of Sierra Leone's total household energy consumption.                  |
-|                |            |                          |                                                                            |
-+                +------------+--------------------------+----------------------------------------------------------------------------+
-|                | EDSA       | Household (Rural)        | Energy consumption for urban households in Sierra Leone. Assumed to equal  |
-|                |            |                          | the remaining 5% of Sierra Leone's total household energy consumption.     |
-|                |            |                          |                                                                            |
-+----------------+------------+--------------------------+----------------------------------------------------------------------------+
-| Household      | World Bank | Urban Electrification    | Percentage of Sierra Leone's urban populations with access to electricity, |
-| electrification| AEP data   |                          | electrification rates projected in line with Sierra Leone's Targets.       |
-| rates (%)      | and        |                          |                                                                            |
-|                | statistics |                          |                                                                            |
-+                +------------+--------------------------+----------------------------------------------------------------------------+
-|                | World Bank | Rural Electrification    | Percentage of Sierra Leone's rural populations with access to electricity, |
-|                | AEP data   |                          | electrification rates projected in line with Sierra Leone's Targets.       |
-|                | and        |                          |                                                                            |
-|                | statistics |                          |                                                                            |
-+                +------------+--------------------------+----------------------------------------------------------------------------+
-|                | World Bank | National Electrification | Percentage of Sierra Leone's total population with access to electricity,  |
-|                | AEP data   |                          | electrification rates projected in line with Sierra Leone's Targets.       |
-|                | and        |                          |                                                                            |
-|                | statistics |                          |                                                                            |
-+----------------+------------+--------------------------+----------------------------------------------------------------------------+
-| Sectoral energy| Calculated | Agriculture (MJ/US$)     | Agricultural productivity in terms of US$ per MJ of energy used.           |
-| intensity per  | from IRP   |                          |                                                                            |
-| annum          |            |                          |                                                                            |
-+                +------------+--------------------------+----------------------------------------------------------------------------+
-|                | Calculated | Mining (MJ/US$)          | Mining productivity in terms of US$ per MJ of energy used.                 |
-|                | from IRP   |                          |                                                                            |
-|                |            |                          |                                                                            |
-+                +------------+--------------------------+----------------------------------------------------------------------------+
-|                | Calculated | Services (MJ/US$)        | Services productivity in terms of US$ per MJ of energy used.               |
-|                | from IRP   |                          |                                                                            |
-|                |            |                          |                                                                            |
-+                +------------+--------------------------+----------------------------------------------------------------------------+
-|                | Calculated | Urban Household (MJ/US$) | Productivity of Urban Households in terms of US$ per MJ of energy used.    |
-|                | from IRP   |                          |                                                                            |
-|                |            |                          |                                                                            |
-+                +------------+--------------------------+----------------------------------------------------------------------------+
-|                | Calculated | Rural Household (MJ/US$) | Productivity of Rural Households in terms of US$ per MJ of energy used.    |
-|                | from IRP   |                          |                                                                            |
-|                |            |                          |                                                                            |
-+----------------+------------+--------------------------+----------------------------------------------------------------------------+
-| GDP Scenarios  | IMF        | Base GDP Growth Rate     | The annual growth rate for Sierra Leone's GDP over the modelling period,   |
-|                |            |                          | assumed constant beyond available data.                                    |
-|                |            |                          |                                                                            |
-+                +------------+--------------------------+----------------------------------------------------------------------------+
-|                | AfDB       | High GDP Growth Rate     | The annual growth rate for Sierra Leone's GDP over the modelling period,   |
-|                | Review     |                          | linear projection to meet Sierra Leone's ambitions (currently 7% by 2035)  |   
-|                |            |                          | and remaining constant beyond this horizon.                                |
-+                +------------+--------------------------+----------------------------------------------------------------------------+
-|                | IMF        | Low GDP Growth Rate      | The annual growth rate for Sierra Leone's GDP over the modelling period,   |
-|                |            |                          | assumed to remain at 2023 rates.                                           | 
-|                |            |                          |                                                                            |
-+----------------+------------+--------------------------+----------------------------------------------------------------------------+
-| Population     | World      | Base Population Scenario | The annual growth rate for Sierra Leone's population, assumed to remain    |
-| Scenarios      | Population |                          | constant beyond current projections.                                       |
-|                | Review     |                          |                                                                            |
-+                +------------+--------------------------+----------------------------------------------------------------------------+
-|                |            | High Population Scenario | The annual growth rate for Sierra Leone's population, assumed to equal     |
-|                |            |                          | growth rates found in other related studies in Sierra Leone.               |
-|                |            |                          |                                                                            |
-+                +------------+--------------------------+----------------------------------------------------------------------------+
-|                | World      | Low Population Scenario  | The annual growth rate for Sierra Leone's population, assumed to maintain  |
-|                | Population |                          | annual changes growth rate in line with historic changes (-0.03% per year  | 
-|                | Review     |                          | based on 2019-2021 growth rates)                                           |
-+----------------+------------+--------------------------+----------------------------------------------------------------------------+
+|                | SSL Report | Industry (Agriculture)     | Agriculture's share of Sierra Leone's GDP. Assumed constant over the       |
+|                |            |                            | modelling period.                                                          |
+|                |            |                            |                                                                            |
++                +------------+----------------------------+----------------------------------------------------------------------------+
+|                | SSL Report | Industry (Mining)          | Mining's share of Sierra Leone's GDP. Assumed constant over the modelling  |
+|                |            |                            | period.                                                                    |
+|                |            |                            |                                                                            |
+|                |            |                            |                                                                            |
++                +------------+----------------------------+----------------------------------------------------------------------------+
+|                | SSL Report | Services                   | Services share of Sierra Leone's GDP. Assumed constant over the modelling  |
+|                |            |                            | period.                                                                    |
+|                |            |                            |                                                                            |
+|                |            |                            |                                                                            |
++----------------+------------+----------------------------+----------------------------------------------------------------------------+
+| Baseline       | EDSA       | Industry (Total)           | Total energy consumption for Sierra Leone's Industrial sector.             |
+| Sectoral       |            |                            |                                                                            |
+| Energy         |            |                            |                                                                            |
+| Consumption    |            |                            |                                                                            |
++                +------------+----------------------------+----------------------------------------------------------------------------+
+|                | EDSA       | Industry (Agriculture)     | Energy consumption for Sierra Leone's Industry Agriculture sector,         |
+|                |            |                            | assumed to equal 2% of Sierra Leones energy consumption.                   |
+|                |            |                            |                                                                            |
++                +------------+----------------------------+----------------------------------------------------------------------------+
+|                | EDSA       | Industry (Mining)          | Energy consumption for Sierra Leone's Industry Mining sector,              |
+|                |            |                            | assumed to cover the share of Sierra Leone's Industrial sector             |
+|                |            |                            | not accounted for by Sierra Leone's Agriculture sector.                    |
++                +------------+----------------------------+----------------------------------------------------------------------------+
+|                | EDSA       | Services                   | Energy consumption for Sierra Leone's Services sector.                     |
+|                |            |                            |                                                                            |
+|                |            |                            |                                                                            |
++                +------------+----------------------------+----------------------------------------------------------------------------+
+|                | EDSA       | Household (Total)          | Energy consumption for all households in Sierra Leone.                     |
+|                |            |                            |                                                                            |
+|                |            |                            |                                                                            |
++                +------------+----------------------------+----------------------------------------------------------------------------+
+|                | EDSA       | Household (Urban)          | Energy consumption for urban households in Sierra Leone. Assumed to equal  |
+|                |            |                            | 95% of Sierra Leone's total household energy consumption.                  |
+|                |            |                            |                                                                            |
++                +------------+----------------------------+----------------------------------------------------------------------------+
+|                | EDSA       | Household (Rural)          | Energy consumption for urban households in Sierra Leone. Assumed to equal  |
+|                |            |                            | the remaining 5% of Sierra Leone's total household energy consumption.     |
+|                |            |                            |                                                                            |
++----------------+------------+----------------------------+----------------------------------------------------------------------------+
+| Household      | World Bank | Urban Electrification      | Percentage of Sierra Leone's urban populations with access to electricity, |
++                +            +                            +                                                                            + 
+| electrification| AEP data   |                            | electrification rates projected in line with Sierra Leone's Targets.       |
+| rates (%)      | and        |                            |                                                                            |
+|                | statistics |                            |                                                                            |
++                +------------+----------------------------+----------------------------------------------------------------------------+
+|                | World Bank | Rural Electrification      | Percentage of Sierra Leone's rural populations with access to electricity, |
++                +            +                            +                                                                            + 
+|                | AEP data   |                            | electrification rates projected in line with Sierra Leone's Targets.       |
+|                | and        |                            |                                                                            |
+|                | statistics |                            |                                                                            |
++                +------------+----------------------------+----------------------------------------------------------------------------+
+|                | World Bank | National Electrification   | Percentage of Sierra Leone's total population with access to electricity,  |
++                +            +                            +                                                                            + 
+|                | AEP data   |                            | electrification rates projected in line with Sierra Leone's Targets.       |
+|                | and        |                            |                                                                            |
+|                | statistics |                            |                                                                            |
++----------------+------------+----------------------------+----------------------------------------------------------------------------+
+| Sectoral energy| Calculated | Agriculture (MJ/US$)       | Agricultural productivity in terms of US$ per MJ of energy used.           |
+| intensity per  | from IRP   |                            |                                                                            |
+| annum          |            |                            |                                                                            |
++                +------------+----------------------------+----------------------------------------------------------------------------+
+|                | Calculated | Mining (MJ/US$)            | Mining productivity in terms of US$ per MJ of energy used.                 |
+|                | from IRP   |                            |                                                                            |
+|                |            |                            |                                                                            |
++                +------------+----------------------------+----------------------------------------------------------------------------+
+|                | Calculated | Services (MJ/US$)          | Services productivity in terms of US$ per MJ of energy used.               |
+|                | from IRP   |                            |                                                                            |
+|                |            |                            |                                                                            |
++                +------------+----------------------------+----------------------------------------------------------------------------+
+|                | Calculated | Urban Household (MJ/US$)   | Productivity of Urban Households in terms of US$ per MJ of energy used.    |
+|                | from IRP   |                            |                                                                            |
+|                |            |                            |                                                                            |
++                +------------+----------------------------+----------------------------------------------------------------------------+
+|                | Calculated | Rural Household (MJ/US$)   | Productivity of Rural Households in terms of US$ per MJ of energy used.    |
+|                | from IRP   |                            |                                                                            |
+|                |            |                            |                                                                            |
++----------------+------------+----------------------------+----------------------------------------------------------------------------+
+| GDP Scenarios  | IMF        | Base GDP Growth Rate       | The annual growth rate for Sierra Leone's GDP over the modelling period,   |
+|                |            |                            | assumed constant beyond available data.                                    |
+|                |            |                            |                                                                            |
++                +------------+----------------------------+----------------------------------------------------------------------------+
+|                | AfDB       | High GDP Growth Rate       | The annual growth rate for Sierra Leone's GDP over the modelling period,   |
+|                | Review     |                            | linear projection to meet Sierra Leone's ambitions (currently 7% by 2035)  |   
+|                |            |                            | and remaining constant beyond this horizon.                                |
++                +------------+----------------------------+----------------------------------------------------------------------------+
+|                | IMF        | Low GDP Growth Rate        | The annual growth rate for Sierra Leone's GDP over the modelling period,   |
+|                |            |                            | assumed to remain at 2023 rates.                                           | 
+|                |            |                            |                                                                            |
++----------------+------------+----------------------------+----------------------------------------------------------------------------+
+| Population     | World      | Base Population Scenario   | The annual growth rate for Sierra Leone's population, assumed to remain    |
+| Scenarios      | Population |                            | constant beyond current projections.                                       |
+|                | Review     |                            |                                                                            |
++                +------------+----------------------------+----------------------------------------------------------------------------+
+|                |            | High Population Scenario   | The annual growth rate for Sierra Leone's population, assumed to equal     |
+|                |            |                            | growth rates found in other related studies in Sierra Leone.               |
+|                |            |                            |                                                                            |
++                +------------+----------------------------+----------------------------------------------------------------------------+
+|                | World      | Low Population Scenario    | The annual growth rate for Sierra Leone's population, assumed to maintain  |
+|                | Population |                            | annual changes growth rate in line with historic changes (-0.03% per year  | 
+|                | Review     |                            | based on 2019-2021 growth rates)                                           |
++----------------+------------+----------------------------+----------------------------------------------------------------------------+
 
 3.3. Summary of demographic parameters.
 +++++++++

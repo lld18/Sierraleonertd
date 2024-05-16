@@ -18,14 +18,17 @@ The table below summarises the main sources and assumptions recommended for the 
 |                | Review     |                            |                                                                            |
 +                +------------+----------------------------+----------------------------------------------------------------------------+
 |                | Statistica | Urban Population (%)       | Portion of Sierra Leone's population reported to live in urban households  |
++                +            +                            +                                                                            + 
 |                |            |                            | in initial year of modelling.                                              |
 |                |            |                            |                                                                            |
 +                +------------+----------------------------+----------------------------------------------------------------------------+
 |                | SSL Reports| Persons per Urban          | Number of individuals per urban household in Sierra Leone.                 |
++                +            +                            +                                                                            + 
 |                |            | Household (Capita)         | Assumed constant over the modelling period.                                |
 |                |            |                            |                                                                            |
 +                +------------+----------------------------+----------------------------------------------------------------------------+
 |                | SSL Reports| Persons per Rural          | Number of individuals per rural household in Sierra Leone.                 |
++                +            +                            +                                                                            + 
 |                |            | Household (Capita)         | Assumed constant over the modelling period                                 |
 |                |            |                            |                                                                            |
 +                +------------+----------------------------+----------------------------------------------------------------------------+
@@ -35,6 +38,7 @@ The table below summarises the main sources and assumptions recommended for the 
 |                |            |                            |                                                                            |
 +                +------------+----------------------------+----------------------------------------------------------------------------+
 |                | World Bank | Participating Labour       | Portion of Sierra Leone's population participating in the labour force.    |
++                +            +                            +                                                                            + 
 |                | Statistica | Force (%)                  | Assumed constant over the modelling period.                                |
 |                |            |                            |                                                                            |
 +----------------+------------+----------------------------+----------------------------------------------------------------------------+
@@ -47,10 +51,12 @@ The table below summarises the main sources and assumptions recommended for the 
 |                |            |                            |                                                                            |
 +----------------+------------+----------------------------+----------------------------------------------------------------------------+
 | Sectoral       | SSL Report | Industry (Total)           | Total industrial share of Sierra Leone's GDP. Assumed constant over        |
++                +            +                            +                                                                            + 
 | shares of GDP  |            |                            | the modelling period.                                                      |
 |                |            |                            |                                                                            |
 +                +------------+----------------------------+----------------------------------------------------------------------------+
 |                | SSL Report | Industry (Agriculture)     | Agriculture's share of Sierra Leone's GDP. Assumed constant over the       |
++                +            +                            +                                                                            + 
 |                |            |                            | modelling period.                                                          |
 |                |            |                            |                                                                            |
 +                +------------+----------------------------+----------------------------------------------------------------------------+
@@ -70,11 +76,14 @@ The table below summarises the main sources and assumptions recommended for the 
 | Consumption    |            |                            |                                                                            |
 +                +------------+----------------------------+----------------------------------------------------------------------------+
 |                | EDSA       | Industry (Agriculture)     | Energy consumption for Sierra Leone's Industry Agriculture sector,         |
++                +            +                            +                                                                            + 
 |                |            |                            | assumed to equal 2% of Sierra Leones energy consumption.                   |
 |                |            |                            |                                                                            |
 +                +------------+----------------------------+----------------------------------------------------------------------------+
 |                | EDSA       | Industry (Mining)          | Energy consumption for Sierra Leone's Industry Mining sector,              |
++                +            +                            +                                                                            + 
 |                |            |                            | assumed to cover the share of Sierra Leone's Industrial sector             |
++                +            +                            +                                                                            + 
 |                |            |                            | not accounted for by Sierra Leone's Agriculture sector.                    |
 +                +------------+----------------------------+----------------------------------------------------------------------------+
 |                | EDSA       | Services                   | Energy consumption for Sierra Leone's Services sector.                     |
@@ -86,10 +95,12 @@ The table below summarises the main sources and assumptions recommended for the 
 |                |            |                            |                                                                            |
 +                +------------+----------------------------+----------------------------------------------------------------------------+
 |                | EDSA       | Household (Urban)          | Energy consumption for urban households in Sierra Leone. Assumed to equal  |
++                +            +                            +                                                                            + 
 |                |            |                            | 95% of Sierra Leone's total household energy consumption.                  |
 |                |            |                            |                                                                            |
 +                +------------+----------------------------+----------------------------------------------------------------------------+
 |                | EDSA       | Household (Rural)          | Energy consumption for urban households in Sierra Leone. Assumed to equal  |
++                +            +                            +                                                                            + 
 |                |            |                            | the remaining 5% of Sierra Leone's total household energy consumption.     |
 |                |            |                            |                                                                            |
 +----------------+------------+----------------------------+----------------------------------------------------------------------------+
@@ -132,11 +143,14 @@ The table below summarises the main sources and assumptions recommended for the 
 |                |            |                            |                                                                            |
 +----------------+------------+----------------------------+----------------------------------------------------------------------------+
 | GDP Scenarios  | IMF        | Base GDP Growth Rate       | The annual growth rate for Sierra Leone's GDP over the modelling period,   |
++                +            +                            +                                                                            + 
 |                |            |                            | assumed constant beyond available data.                                    |
 |                |            |                            |                                                                            |
 +                +------------+----------------------------+----------------------------------------------------------------------------+
 |                | AfDB       | High GDP Growth Rate       | The annual growth rate for Sierra Leone's GDP over the modelling period,   |
++                +            +                            +                                                                            + 
 |                | Review     |                            | linear projection to meet Sierra Leone's ambitions (currently 7% by 2035)  |   
++                +            +                            +                                                                            + 
 |                |            |                            | and remaining constant beyond this horizon.                                |
 +                +------------+----------------------------+----------------------------------------------------------------------------+
 |                | IMF        | Low GDP Growth Rate        | The annual growth rate for Sierra Leone's GDP over the modelling period,   |
@@ -148,10 +162,12 @@ The table below summarises the main sources and assumptions recommended for the 
 |                | Review     |                            |                                                                            |
 +                +------------+----------------------------+----------------------------------------------------------------------------+
 |                |            | High Population Scenario   | The annual growth rate for Sierra Leone's population, assumed to equal     |
++                +            +                            +                                                                            + 
 |                |            |                            | growth rates found in other related studies in Sierra Leone.               |
 |                |            |                            |                                                                            |
 +                +------------+----------------------------+----------------------------------------------------------------------------+
 |                | World      | Low Population Scenario    | The annual growth rate for Sierra Leone's population, assumed to maintain  |
++                +            +                            +                                                                            + 
 |                | Population |                            | annual changes growth rate in line with historic changes (-0.03% per year  | 
 |                | Review     |                            | based on 2019-2021 growth rates)                                           |
 +----------------+------------+----------------------------+----------------------------------------------------------------------------+

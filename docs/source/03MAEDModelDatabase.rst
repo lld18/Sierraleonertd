@@ -68,6 +68,7 @@ The table below summarises the main sources and assumptions recommended for the 
 |                |            |                            | period.                                                                    |
 |                |            |                            |                                                                            |
 |                |            |                            |                                                                            |
++                +            +                            +                                                                            + 
 +----------------+------------+----------------------------+----------------------------------------------------------------------------+
 | Baseline       | EDSA       | Industry (Total)           | Total energy consumption for Sierra Leone's Industrial sector.             |
 | Sectoral       |            |                            |                                                                            |

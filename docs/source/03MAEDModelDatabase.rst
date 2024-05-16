@@ -11,6 +11,7 @@ The table below summarises the main sources and assumptions recommended for the 
 +================+============+============================+============================================================================+
 | Population     | World Bank | Sierra Leone Population    | Population of Sierra Leone in initial year of modelling.                   |
 +                +            +                            +                                                                            + 
++                +            +                            +                                                                            + 
 | parameters     | IMF        | (Millions)                 |                                                                            |
 +                +------------+----------------------------+----------------------------------------------------------------------------+
 |                | World      | Population Growth Rate     | Population growth rate in Sierra Leone. Assumed constant beyond            |
@@ -32,10 +33,12 @@ The table below summarises the main sources and assumptions recommended for the 
 |                | World Bank | Potential Labour Force (%) | Portion of Sierra Leone's population with potential to participate         |
 |                |            |                            | in the labour force. Assumed constant over the modelling period.           |
 +                +            +                            +                                                                            + 
++                +            +                            +                                                                            + 
 |                | Statistica |                            |                                                                            |
 +                +------------+----------------------------+----------------------------------------------------------------------------+
 |                | World Bank | Participating Labour       | Portion of Sierra Leone's population participating in the labour force.    |
 |                |            | Force (%)                  | Assumed constant over the modelling period.                                |
++                +            +                            +                                                                            + 
 +                +            +                            +                                                                            + 
 |                | Statistica |                            |                                                                            |
 +----------------+------------+----------------------------+----------------------------------------------------------------------------+
@@ -99,6 +102,7 @@ The table below summarises the main sources and assumptions recommended for the 
 | electrification|            |                            | electrification rates projected in line with Sierra Leone's Targets.       |
 | rates (%)      |            |                            |                                                                            |
 +                +            +                            +                                                                            + 
++                +            +                            +                                                                            + 
 |                | AEP data   |                            |                                                                            |
 |                | and        |                            |                                                                            |
 |                | statistics |                            |                                                                            |
@@ -106,12 +110,14 @@ The table below summarises the main sources and assumptions recommended for the 
 |                | World Bank | Rural Electrification      | Percentage of Sierra Leone's rural populations with access to electricity, |
 |                |            |                            | electrification rates projected in line with Sierra Leone's Targets.       |
 +                +            +                            +                                                                            + 
++                +            +                            +                                                                            + 
 |                | AEP data   |                            |                                                                            |
 |                | and        |                            |                                                                            |
 |                | statistics |                            |                                                                            |
 +                +------------+----------------------------+----------------------------------------------------------------------------+
 |                | World Bank | National Electrification   | Percentage of Sierra Leone's total population with access to electricity,  |
 |                |            |                            | electrification rates projected in line with Sierra Leone's Targets.       |
++                +            +                            +                                                                            + 
 +                +            +                            +                                                                            + 
 |                | AEP data   |                            |                                                                            |
 |                | and        |                            |                                                                            |

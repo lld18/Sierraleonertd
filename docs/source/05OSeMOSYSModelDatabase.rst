@@ -21,46 +21,50 @@ In the model, all fuels and technologies are incorporated to OSeMOSYS taking int
 
 .. table:: 
    :align:   center
-+--------------+------------+--------------------------+------------------------------------------------------------------------------+
-| Category     | Source     | Data                     | Descriptions and assumption made                                             |
-+==============+============+==========================+==============================================================================+
-| Energy       |            | Energy balance           |                                                                              |
-| System       |            |                          |                                                                              |
-+--------------+------------+--------------------------+------------------------------------------------------------------------------+
-| Demand       | MAED       | Final energy             | Final energy demand for the three sectors modelled in the OSeMOSYS-SL model  |
-|              |            |                          | was calculated through the modelling outlined for the Sierra Leone MAED      |
-|              |            |                          | Demand model outlined in sections 2 and 3.                                   |
-+--------------+------------+--------------------------+------------------------------------------------------------------------------+
-|Electricity   | IEA        | Capital and fixed costs  | Based on national data. The costs were assumed constant in the whole period, |
-|technologies  |            |                          | except for solar and wind systems, which decrease according to international |
-|              |            |                          |                                                                              |
-+              +------------+--------------------------+------------------------------------------------------------------------------+
-|              |            | Capacity and activity    | Based on the operational performance registered by the National Energy       |
-|              |            |                          | Control Centre. Operational life is according to national plans.             |
-+--------------+------------+--------------------------+------------------------------------------------------------------------------+
-|Fuel prices   | IEA        | Fossil Fuels and Biofuels| Based on current tariffs and projection uses in national plans. It considers |
-|              |            |                          | international prices and the tariff given by the regulator in Costa Rica     |
-|              |            |                          | (ARESEP) and trend provide by international Energy Agency (IEA).             |
-+              +------------+--------------------------+------------------------------------------------------------------------------+
-|              |            | Electricity              | Base of the average of national tariffs and projections.                     |
-|              |            |                          |                                                                              |
-+              +------------+--------------------------+------------------------------------------------------------------------------+
-|              |            | Biomass                  |  Not included. It is produced and consumed locally.                          |
-+              +------------+--------------------------+------------------------------------------------------------------------------+
-|              |            | Hydrogen                 | Based on data published by ETSAP.                                            |
-+--------------+------------+--------------------------+------------------------------------------------------------------------------+
-|Infrastrucure |            | Plants and power grid    | Based on Transmission and generation national plans. It assumes losses of 4% |
-|              |            |                          | from the bulk transmission system and 6% for distribution. Charging          |
-|              |            |                          | infrastructure is not included.                                              |
-+              +------------+--------------------------+------------------------------------------------------------------------------+
-|              |            | Pipeline and road        | Based on national reports, we consider the current infraestructure does not  |
-|              |            | distribution             | grow (gasoline and diesel). It includes new infrastructure for LPG. The model|
-|              |            |                          |                                                                              |
-+              +------------+--------------------------+------------------------------------------------------------------------------+
-|              |            | Hydrogen                 |                                                                              |
-+--------------+------------+--------------------------+------------------------------------------------------------------------------+
-| Emissions    | IPCC       |  Factors                 | Based on the IPCC and the national GHG inventory.                            |
-+--------------+------------+--------------------------+------------------------------------------------------------------------------+
++---------------+------------+--------------------------+------------------------------------------------------------------------------+
+| Category      | Source     | Data                     | Descriptions and assumption made                                             |
++===============+============+==========================+==============================================================================+
+| Energy        |            | Energy balance           |                                                                              |
+| System        |            |                          |                                                                              |
++---------------+------------+--------------------------+------------------------------------------------------------------------------+
+| Demand        | MAED       | Final energy             | Final energy demand for the three sectors modelled in the OSeMOSYS-SL model  |
+|               |            |                          | was calculated through the modelling outlined for the Sierra Leone MAED      |
+|               |            |                          | Demand model outlined in sections 2 and 3.                                   |
++---------------+------------+--------------------------+------------------------------------------------------------------------------+
+|Technology     |            | Capital Costs            |                                                                              |
+|Costs          |            |                          |                                                                              |
+|               |            |                          |                                                                              |
++               +------------+--------------------------+------------------------------------------------------------------------------+
+|               |            | Fixed Costs              |                                                                              |
+|               |            |                          |                                                                              |
++               +------------+--------------------------+------------------------------------------------------------------------------+
+|               |            | Variable Costs           |                                                                              |
+|               |            |                          |                                                                              |
+|               |            |                          |                                                                              |
++---------------+------------+--------------------------+------------------------------------------------------------------------------+
+| Technology    |            | Operational Lifetimes    |                                                                              |
+| Variables     |            |                          |                                                                              |
+|               |            |                          |                                                                              |
++               +------------+--------------------------+------------------------------------------------------------------------------+
+|               |            | Efficiencies             |                                                                              |
+|               |            |                          |                                                                              |
++               +------------+--------------------------+------------------------------------------------------------------------------+
+|               |            | Emissions Factors        |                                                                              |
+|               |            |                          |                                                                              |
++               +------------+--------------------------+------------------------------------------------------------------------------+
+|               |            | Capacity Factors         |                                                                              |
+|               |            |                          |                                                                              |
++               +------------+--------------------------+------------------------------------------------------------------------------+
+|               |            | Residual Capacities      |                                                                              |
+|               |            |                          |                                                                              |
++               +------------+--------------------------+------------------------------------------------------------------------------+
+|               |            | Potentials and Reserves  |                                                                              |
+|               |            |                          |                                                                              |
++---------------+------------+--------------------------+------------------------------------------------------------------------------+
+| Baseline      |            | Historic Generation      |                                                                              |
+|               |            |                          |                                                                              |
+|               |            |                          |                                                                              |
++---------------+------------+--------------------------+------------------------------------------------------------------------------+
 
 *Table 5.1.2 Main data sources used in OSeMOSYS-SL.*
 

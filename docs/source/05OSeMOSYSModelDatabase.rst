@@ -72,8 +72,10 @@ In the model, all fuels and technologies are incorporated to OSeMOSYS taking int
 +               +                                 +                          +                                                                                    +
 |               | World Bank                      |                          |                                                                                    |
 +---------------+---------------------------------+--------------------------+------------------------------------------------------------------------------------+
-| Technology    | IRENA                           | Operational Lifetimes    |                                                                                    |
-| Variables     |                                 |                          |                                                                                    |
+| Technology    | IRENA                           | Operational Lifetimes    | Operational life reflects the life-span over which each technology is able to      |
+| Variables     |                                 |                          | operate following the capital cost investment and capacity construction within the |
+|               |                                 |                          | model. This allows for more accurate representation of costs within the            |
+|               |                                 |                          | OSeMOSYS-SL model.                                                                 |
 +               +                                 +                          +                                                                                    +
 +               +                                 +                          +                                                                                    +
 |               | Scientific Journals             |                          |                                                                                    |

@@ -42,7 +42,7 @@ In the model, all fuels and technologies are incorporated to OSeMOSYS taking int
 |               | NREL                            |                          |                                                                                    |
 +               +                                 +                          +                                                                                    +
 +               +                                 +                          +                                                                                    +
-|               | Scientific Journals             |                          |                                                                                    |
+|               | Scientific literature           |                          |                                                                                    |
 +               +---------------------------------+--------------------------+------------------------------------------------------------------------------------+
 |               | IRENA                           | Fixed Costs              | Fixed costs for each technology highlight the operational and maintenance costs    |
 |               |                                 |                          | for each technology excluding the fuel costs. This allows the OSeMOSYS-SL model to |
@@ -59,7 +59,7 @@ In the model, all fuels and technologies are incorporated to OSeMOSYS taking int
 |               | TEMBA                           |                          |                                                                                    |
 +               +                                 +                          +                                                                                    +
 +               +                                 +                          +                                                                                    +
-|               | Scientific Journals             |                          |                                                                                    |
+|               | Scientific literature           |                          |                                                                                    |
 +               +---------------------------------+--------------------------+------------------------------------------------------------------------------------+
 |               | IRENA                           | Variable Costs           | The variable costs for each technology are the costs associated with fuel use for  |
 |               |                                 |                          | each technology. As such, this cost scales with technology activity rates rather   |
@@ -78,7 +78,7 @@ In the model, all fuels and technologies are incorporated to OSeMOSYS taking int
 |               |                                 |                          | OSeMOSYS-SL model.                                                                 |
 +               +                                 +                          +                                                                                    +
 +               +                                 +                          +                                                                                    +
-|               | Scientific Journals             |                          |                                                                                    |
+|               | Scientific literature           |                          |                                                                                    |
 +               +---------------------------------+--------------------------+------------------------------------------------------------------------------------+
 |               | IRENA                           | Efficiencies             | Efficiencies are used to represent the efficiency with which energy from primary   |
 |               |                                 |                          | sources such as fuels are converted into usable energy required to meet final      |
@@ -108,10 +108,10 @@ In the model, all fuels and technologies are incorporated to OSeMOSYS taking int
 |               | IRENA                           |                          |                                                                                    |
 +               +                                 +                          +                                                                                    +
 +               +                                 +                          +                                                                                    +
-|               | Scientific Journals             |                          |                                                                                    |
+|               | Scientific literature           |                          |                                                                                    |
 +               +---------------------------------+--------------------------+------------------------------------------------------------------------------------+
-|               | Sierra Leone Ministry of Energy | Residual Capacities      |                                                                                    |
-|               |                                 |                          |                                                                                    |
+|               | Sierra Leone Ministry of Energy | Residual Capacities      | Residual capacities ensure that the OSeMOSYS-SL accurately depict Sierra Leone's   |
+|               |                                 |                          | existing and committed capacity based on historic generation and policies.         |
 +               +                                 +                          +                                                                                    +
 +               +                                 +                          +                                                                                    +
 |               | IRENASTAT                       |                          |                                                                                    |
@@ -122,12 +122,17 @@ In the model, all fuels and technologies are incorporated to OSeMOSYS taking int
 +               +                                 +                          +                                                                                    +
 |               | SLEWRC                          |                          |                                                                                    |
 +               +---------------------------------+--------------------------+------------------------------------------------------------------------------------+
-|               |                                 | Potentials and Reserves  |                                                                                    |
-|               |                                 |                          |                                                                                    |
+|               | Sierra Leone Ministry of Energy | Potentials and Reserves  | Used to estimate primary resources and commodities available for use in Sierra     |
+|               |                                 |                          | Leone's power sector.                                                              |
++               +                                 +                          +                                                                                    +
++               +                                 +                          +                                                                                    +
+|               | Scientific literature           |                          |                                                                                    |
 +---------------+---------------------------------+--------------------------+------------------------------------------------------------------------------------+
-| Baseline      |                                 | Historic Generation      |                                                                                    |
-|               |                                 |                          |                                                                                    |
-|               |                                 |                          |                                                                                    |
+| Baseline      | EDSA                            | Historic Generation      | Sierra Leone's historic power generation for a baseline period between 2018 and    |
+|               |                                 |                          | 2023.                                                                              |
++               +                                 +                          +                                                                                    +
++               +                                 +                          +                                                                                    +
+|               | EGTC                            |                          |                                                                                    |
 +---------------+---------------------------------+--------------------------+------------------------------------------------------------------------------------+
 
 *Table 5.1.2 Main data sources used in OSeMOSYS-SL.*

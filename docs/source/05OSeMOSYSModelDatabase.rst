@@ -73,8 +73,10 @@ In the model, all fuels and technologies are incorporated to OSeMOSYS taking int
 |               | World Bank                      |                          |                                                                                    |
 +---------------+---------------------------------+--------------------------+------------------------------------------------------------------------------------+
 | Technology    | IRENA                           | Operational Lifetimes    |                                                                                    |
-| Variables     | Scientific Journals             |                          |                                                                                    |
-|               |                                 |                          |                                                                                    |
+| Variables     |                                 |                          |                                                                                    |
++               +                                 +                          +                                                                                    +
++               +                                 +                          +                                                                                    +
+|               | Scientific Journals             |                          |                                                                                    |
 +               +---------------------------------+--------------------------+------------------------------------------------------------------------------------+
 |               |                                 | Efficiencies             |                                                                                    |
 |               |                                 |                          |                                                                                    |

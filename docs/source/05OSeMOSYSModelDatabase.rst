@@ -189,11 +189,11 @@ Operational life dictates the time span over which a power plant is able to oper
 +------------------------------------+------------------------------------+
 | Technology                         |      Operational Life (Years)      |
 +====================================+====================================+
-|  Trasnmission (Grid)               |                70                  |
+|  Transmission (Grid)               |                70                  |
 +------------------------------------+------------------------------------+
 |  Distribution (Grid)               |                70                  |
 +------------------------------------+------------------------------------+
-|  Trasnmission (Mini-Gri)           |                70                  |
+|  Transmission (Mini-Grid)          |                70                  |
 +------------------------------------+------------------------------------+
 *Table 5.2.1 (b) Operational life of power transmission and distribution technologies in Sierra Leone*
 

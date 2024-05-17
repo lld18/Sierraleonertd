@@ -64,7 +64,7 @@ Table 4.1.3 summarises these groupings in OSeMOSYS-SL.
 
 4.2.4 Emissions
 ---------
-This OSeMOSYS model focuses on accounting for the CO2 emissions associated with the energy generating technologies as a key concerrn for Sierra Leone's climate initiatives. The addition of the transport sector in the modelling would further the national emissions. 
+This OSeMOSYS model focuses on accounting for the CO₂ emissions associated with the energy generating technologies as a key concerrn for Sierra Leone's climate initiatives. The addition of the transport sector in the modelling would further the national emissions. 
 
 4.2.5 Mode of operation
 ---------

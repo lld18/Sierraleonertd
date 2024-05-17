@@ -199,7 +199,7 @@ Operational life dictates the time span over which a power plant is able to oper
 
 5.2.2 Sierra Leone power-sector fixed costs.
 ----------
-Fixed costs represent the costs associated with the operation and mainenance of power plants in Sierra Leone. For most technologies this value remaind constant over the modelling period, however for a few such as Solar-hybrid mini-grids this is projected to fall with time. For the costs associated with Karpowership value within the range shown within this table found in subsection *A3* of the Annex was used to estimate fixed costs. The fixed costs for transmission and distribution are modelled as 0 and can be found in subsection *A4* of the Annex.  
+Fixed costs represent the costs associated with the operation and mainenance of power plants in Sierra Leone. For most technologies this value remaind constant over the modelling period, however for a few such as solar-hybrid mini-grids this is projected to fall with time. For the costs associated with Karpowership, a value within the range shown within the table found in subsection *A3* of the Annex was used to estimate fixed costs. The fixed costs for transmission and distribution are modelled as 0 and can be found in subsection *A4* of the Annex.  
 
 5.2.3 Summary of variable costs in Sierra Leone 
 ----------

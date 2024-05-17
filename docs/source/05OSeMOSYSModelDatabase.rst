@@ -17,7 +17,7 @@ The energy balance is the most important source of data for the energy model of 
 
 5.1.2 Other key databases 
 ---------
-In the model, all fuels and technologies are incorporated to OSeMOSYS taking into account other sets, such as temporary divisions and emission, as well as the parameters. The latter are classified, among others, into costs, activity levels and infrastructure capacities. The establishment of these parameters was done after processing and reviewing the available national energy data. Table 5.1.2 summarizes the main souces of data for OSeMOSYS-CR. 
+In the model, all fuels and technologies are incorporated to OSeMOSYS taking into account other sets, such as temporary divisions and emission, as well as the parameters. The latter are classified, among others, into costs, activity levels and infrastructure capacities. The establishment of these parameters was done after processing and reviewing the available national energy data. Table 5.1.2 summarizes the main souces of data for OSeMOSYS-SL. 
 
 .. table:: 
    :align:   center

@@ -90,5 +90,5 @@ Scenario 7 assumes that the policy landscape remains the same as business-as-usu
 
    *Figure 6.7: Simplified visualisation of Scenario 7 for Bumbuna expansion in Sierra Leone*
 
-The structure of these scenarios, as well as the potential addition of Mini-Grids and Stand-Alone-Systems (SAS) can be seen in the reference energy system (RES) that can be found in subsection A7 of the Annex.  
+The structure of these scenarios within the OSeMOSYS model, as well as the potential addition of Mini-Grids and Stand-Alone-Systems (SAS) can be seen in the reference energy system (RES) that can be found in subsection A7 of the Annex.  
 

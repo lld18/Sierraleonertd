@@ -276,4 +276,6 @@ The following table summarises historic power generation in Sierra Leone with ge
 +---------------------------------+--------+--------+--------+--------+--------+--------+
 *Table A6 Historic generation in Sierra Leone between 2018 and 2023 in MWh.*
 
+A7. Reference Energy System (RES) for the OSeMOSYS-SL
+++++++++++
 

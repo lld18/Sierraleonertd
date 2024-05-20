@@ -235,7 +235,7 @@ The table below summarises the key economic parameters used as inputs for the MA
 The table below summarises estimates for the energy demand within each sector modelled in Sierra Leone over a historic baseline period.
 
 +-------------------------+-----------------+-----------------+-----------------+-----------------+-----------------+-----------------+
-| Sector                  | Total Energy Consumtion (GWh)                                                                             |
+| Sector                  | Total Energy Consumption (GWh)                                                                             |
 |                         |                                                                                                           |
 +                         +-----------------+-----------------+-----------------+-----------------+-----------------+-----------------+
 |                         | 2018            | 2019            | 2020            | 2021            | 2022            | 2023            | 

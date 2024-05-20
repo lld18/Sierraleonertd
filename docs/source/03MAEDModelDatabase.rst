@@ -295,7 +295,7 @@ This table summarises the energy intensities of each of the outlined sectors in 
 
 3.6. GDP Growth Scenario Variables
 +++++++++
-Energy demand scenarios were stablished for High and Low cases above and below the base scenario. The difference between these scenarios are driven in part by differences in the growth rates projected for Sierra Leone's GDP, with lower demand scenarios under more concervitive estimates of the bounds of Sierra Leone's GDP growth, whilst higher demand scenarios are associated with higher GDP growth scenarios. This table summarises the differences in GDP growth rates under these high and low energy demand scenarios.
+Energy demand scenarios were stablished for High and Low cases above and below the base scenario. The difference between these scenarios are driven in part by differences in the growth rates projected for Sierra Leone's GDP, with lower demand scenarios under more conservative estimates of the bounds of Sierra Leone's GDP growth, whilst higher demand scenarios are associated with higher GDP growth scenarios. This table summarises the differences in GDP growth rates under these high and low energy demand scenarios.
 
 +-------------+--------------+--------------+--------------+--------------+--------------+--------------+--------------+--------------+
 | Scenario    | GDP Growth Rate (%)                                                                                                   |

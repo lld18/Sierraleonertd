@@ -17,7 +17,7 @@ The energy balance is the most important source of data for the energy model of 
 
 5.1.2 Other key databases 
 ---------
-In the model, all fuels and technologies are incorporated to OSeMOSYS taking into account other sets, such as temporary divisions and emission, as well as the parameters. The latter are classified, among others, into costs, activity levels and infrastructure capacities. The establishment of these parameters was done after processing and reviewing the available national energy data. Table 5.1.2 summarizes the main souces of data for OSeMOSYS-SL. 
+In the model, all fuels and technologies are incorporated to OSeMOSYS taking into account other sets, such as temporary divisions and emission, as well as the parameters. The latter are classified, among others, into costs, activity levels and infrastructure capacities. The establishment of these parameters was done after processing and reviewing the available national energy data. Table 5.1.2 summarizes the main sources of data for OSeMOSYS-SL. 
 
 .. table:: 
    :align:   center
@@ -30,7 +30,7 @@ In the model, all fuels and technologies are incorporated to OSeMOSYS taking int
 +---------------+---------------------------------+--------------------------+------------------------------------------------------------------------------------+
 | Technology    | IRENA                           | Capital Costs            | Capital cost data for each technology used in the OSeMOSYS-SL model informs the    |
 | Costs         |                                 |                          | model with regards costs associated with the construction of additional capacity   |
-|               |                                 |                          | allowing for cost-optomization of the least cost power development strategy.       |
+|               |                                 |                          | allowing for cost-optimisation of the least cost power development strategy.       |
 +               +                                 +                          +                                                                                    +
 +               +                                 +                          +                                                                                    +
 |               | Sierra Leone Ministry of Energy |                          |                                                                                    |
@@ -43,7 +43,7 @@ In the model, all fuels and technologies are incorporated to OSeMOSYS taking int
 +               +---------------------------------+--------------------------+------------------------------------------------------------------------------------+
 |               | IRENA                           | Fixed Costs              | Fixed costs for each technology highlight the operational and maintenance costs    |
 |               |                                 |                          | for each technology excluding the fuel costs. This allows the OSeMOSYS-SL model to |
-|               |                                 |                          | include these costs in the cost-optomization in order to establish the least-cost  |
+|               |                                 |                          | include these costs in the cost-optimisation in order to establish the least-cost  |
 |               |                                 |                          | approach that meets predicted energy demand in Sierra Loene.                       |
 +               +                                 +                          +                                                                                    +
 +               +                                 +                          +                                                                                    +
@@ -87,13 +87,13 @@ In the model, all fuels and technologies are incorporated to OSeMOSYS taking int
 +               +                                 +                          +                                                                                    +
 |               | EIA                             |                          |                                                                                    |
 +               +---------------------------------+--------------------------+------------------------------------------------------------------------------------+
-|               | IPCC                            | Emissions Factors        | Emission factors attribute a CO₂ emmission factor to the use of each               |
+|               | IPCC                            | Emissions Factors        | Emission factors attribute a CO₂ emission factor to the use of each               |
 |               |                                 |                          | carbon-emitting fuel. This scales based on the activity and use of each of these   |
 |               |                                 |                          | fuels in order to enable accounting of these emissions in order to meet key        |
 |               |                                 |                          | policy regarding emissions targets.                                                |
 +               +---------------------------------+--------------------------+------------------------------------------------------------------------------------+
 |               | Sierra Leone Ministry of Energy | Capacity Factors         | Capacity factors are used to represent the activity of each technology as a factor |
-|               |                                 |                          | of its potential generation if operated continuously. This was calculated from     |
+|               |                                 |                          | of its potential generation if operated continuously. This was calculated from.    |
 +               +                                 +                          +                                                                                    +
 +               +                                 +                          +                                                                                    +
 |               | EDSA                            |                          |                                                                                    |
@@ -143,7 +143,7 @@ Capital costs for power projects within Sierra Leone were collected from sources
 
 5.2.1 Summary of Sierra Leone's technology operational life times.
 ----------
-Operational life dictates the time span over which a power plant is able to operate following its comission. 
+Operational life dictates the time span over which a power plant is able to operate following its commissioning. 
 
 .. table:: 
    :align:   center
@@ -199,11 +199,11 @@ Operational life dictates the time span over which a power plant is able to oper
 
 5.2.2 Sierra Leone power-sector fixed costs.
 ----------
-Fixed costs represent the costs associated with the operation and mainenance of power plants in Sierra Leone. For most technologies this value remaind constant over the modelling period, however for a few such as solar-hybrid mini-grids this is projected to fall with time. For the costs associated with Karpowership, a value within the range shown within the table found in subsection *A3* of the Annex was used to estimate fixed costs. The fixed costs for transmission and distribution are modelled as 0 and can be found in subsection *A4* of the Annex.  
+Fixed costs represent the costs associated with the operation and maintenance of power plants in Sierra Leone. For most technologies this value remains constant over the modelling period, however for a few such as solar-hybrid mini-grids this is projected to fall with time. For the costs associated with Karpowership, a value within the range shown within the table found in subsection *A3* of the Annex was used to estimate fixed costs. The fixed costs for transmission and distribution are modelled as 0 and can be found in subsection *A4* of the Annex.  
 
 5.2.3 Summary of variable costs in Sierra Leone 
 ----------
-Variable costs are used to model the fuel costs associated with the activity of power generating technologies within the energy model. This cost is scaled with the level of activity and the fuel type associated with each technology. These costs are summaried in the table below, with the full data available through the data repository associated with this documentation.
+Variable costs are used to model the fuel costs associated with the activity of power generating technologies within the energy model. This cost is scaled with the level of activity and the fuel type associated with each technology. These costs are summarised in the table below, with the full data available through the data repository associated with this documentation.
 
 +------------------------------------+--------------------+--------------------+--------------------+--------------------+
 | Commodity                          |                                 Fuel Price ($/GJ)                                 |
@@ -333,11 +333,11 @@ Capacity factors for transmission and distribution are assumed to be 100% for mo
 5.2.7 Residual capacities and committed capacities for Power plants in Sierra Leone.
 ----------
 
-Residual and committed capacities are used to reflect existing or committed power plant capacities and policies in Sierra Leone. These are based on the baseline historic generation capacity in Sierra Leone, power plants and transmission and distribution projects that the government of Sierra Leone has committed to meet. This historic and committed capacity data is used to ensure that the OSeMOSYS-SL model accurately represents Sierra Leone's planned power development strategies and policies, whilst allowing OSeMOSYS to optomise capacity required to meet remaining energy demand. A summary of these residual capacities can be found in subsection A5 of the Annex.
+Residual and committed capacities are used to reflect existing or committed power plant capacities and policies in Sierra Leone. These are based on the baseline historic generation capacity in Sierra Leone, power plants and transmission and distribution projects that the government of Sierra Leone has committed to meet. This historic and committed capacity data is used to ensure that the OSeMOSYS-SL model accurately represents Sierra Leone's planned power development strategies and policies, whilst allowing OSeMOSYS to optimise capacity required to meet remaining energy demand. A summary of these residual capacities can be found in subsection A5 of the Annex.
 
 5.2.8 Resource potentials in Sierra Leone
 ----------
-The table below summarises key resource potentials for Sierra Leone's power sector. This is dominated by solar and hydro power, with wind currently not considered a viable option of the development of Sierra Leone's power sector, and no known viable domestic fossil fuel reserves. Biomass has also been set to 0 due to the closure of the recently developed Addax Biomass power plant due to insufficient biomass avialability.  
+The table below summarises key resource potentials for Sierra Leone's power sector. This is dominated by solar and hydro power, with wind currently not considered a viable option of the development of Sierra Leone's power sector, and no known viable domestic fossil fuel reserves. Biomass has also been set to 0 due to the closure of the recently developed Addax Biomass power plant due to insufficient biomass availability.  
 
 
 +---------------------------------------------------+----------------------+
@@ -362,7 +362,7 @@ The table below summarises key resource potentials for Sierra Leone's power sect
 
 5.2.9 Historic Generation in Sierra Leone
 ----------
-Historic power-sector generation and energy imports in Sierra Leone are visualised in the  figure below, whilst a table of this data can be found in subsection A6 of the Annex. Mini-grids are not currently included in the OSeMOSYS-SL model, however have been included for future modelling efforts. 
+Historic power-sector generation and energy imports in Sierra Leone are visualised in the  figure below, whilst a table of this data can be found in subsection A6 of the Annex. Mini-grids are not currently included in the OSeMOSYS-SL model, however, have been included for future modelling efforts. 
 
 .. figure:: img/SL_Hist_Gen.png
    :align:   center

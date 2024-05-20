@@ -279,3 +279,9 @@ The following table summarises historic power generation in Sierra Leone with ge
 A7. Reference Energy System (RES) for the OSeMOSYS-SL
 ++++++++++
 
+
+.. figure:: img/SL_RES_Diag.png
+   :align:   center
+   :width:   700 px
+
+   *Figure 2.1: Simplified Reference Energy System (RES) showing the structure used within the OSeMOSYS-SL modelling of Sierra Leone's power sector*

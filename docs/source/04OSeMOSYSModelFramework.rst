@@ -27,7 +27,7 @@ This corresponds to the period of analysis. For OSeMOSYS-SL it is from 2015 to 2
 
 4.2.2 Fuels
 ---------
-In the OSeMOSYS model fuels act as commodities, with their availability often split between the demand of several technologies. These are crutial in establishing limitations in the supply chain of Sierra Leone's power sector from the three main fuel sources of production, importation or renewable fuels available for use in energy generation within Sierra Leone.  
+In the OSeMOSYS model fuels act as commodities, with their availability often split between the demand of several technologies. These are crucial in establishing limitations in the supply chain of Sierra Leone's power sector from the three main fuel sources of production, importation or renewable fuels available for use in energy generation within Sierra Leone.  
 
 4.2.3 Technologies
 ---------
@@ -40,11 +40,11 @@ In the OSeMOSYS model fuels act as commodities, with their availability often sp
 
 Groups of technologies represented in Figure 4.1.3 have been simplified from the technologies that can be found in the Annex section. A description of each grouping can be found below:
 
-The first group, labelled IMP-PROD is used within the model to represent the availability and processing of raw commodities for use in energy generation within Sierra Leone. This can be directly in use in power plants as is the case with all renewables, as well as imported Heavy Fuel Oil (HFO) and Light Fuel Oil (LFO). However for Crude Oil imports, this includes the processing of this to generate HFO and LFO fuels. 
+The first group, labelled IMP-PROD is used within the model to represent the availability and processing of raw commodities for use in energy generation within Sierra Leone. This can be directly in use in power plants as is the case with all renewables, as well as imported Heavy Fuel Oil (HFO) and Light Fuel Oil (LFO). However, for Crude Oil imports, this includes the processing of this to generate HFO and LFO fuels. 
 
 The second grouping labelled PP-TD represents Sierra Leone's power sector infrastructure, including renewable and non-renewable power generation from raw commodities, the transmission and distribution, and the import of energy both internationally and from Karpowership.
 
-The last grouping labelled as SECT represents the division of energy within Sierra Leone's sectors. This includes the use of some primary commodities such as biomass in heating and cooking which constitutes a large portion of Sierra Leone's energy use, as well as the division of fuels and energy within Sierra Leone's sectors. This is driven by the demands predicted by MAED for Sierr Leone's Residential, Industrial and Commercial sectors. 
+The last grouping labelled as SECT represents the division of energy within Sierra Leone's sectors. This includes the use of some primary commodities such as biomass in heating and cooking which constitutes a large portion of Sierra Leone's energy use, as well as the division of fuels and energy within Sierra Leone's sectors. This is driven by the demands predicted by MAED for Sierra Leone's Residential, Industrial and Commercial sectors. 
 
 Table 4.1.3 summarises these groupings in OSeMOSYS-SL.
 
@@ -64,7 +64,7 @@ Table 4.1.3 summarises these groupings in OSeMOSYS-SL.
 
 4.2.4 Emissions
 ---------
-This OSeMOSYS model focuses on accounting for the CO₂ emissions associated with the energy generating technologies as a key concerrn for Sierra Leone's climate initiatives. The addition of the transport sector in the modelling would further the national emissions. 
+This OSeMOSYS model focuses on accounting for the CO₂ emissions associated with the energy generating technologies as a key concern for Sierra Leone's climate initiatives. The addition of the transport sector in the modelling would further the national emissions. 
 
 4.2.5 Mode of operation
 ---------

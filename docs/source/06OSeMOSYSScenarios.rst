@@ -1,7 +1,7 @@
 6. OSeMOSYS model: Scenarios
 =======================================
 
-OSeMOSYS-SL started by estimating a base case, and subsequently, including the effect of a set of policies defined by stakeholders in a decarbonisation scenarios. This exercise allowed the creation of the following scenarios: 
+OSeMOSYS-SL started by estimating a base case scenario for the future development of Sierra Leone's current power sector taking into account the effect of a policies and development strategies that were established through consultation and collaboration with key stakeholders. This base scenario represents what can be considered the most probable power development scenario taking into considering availabe information. However, besides variations in demand scenarios outlined in the MAED modelling in sections 2 and 3, the OSeMOSYS model considered a number of different potential power development scenarios for Sierra Leone based on the development of the Bumbuna hydro power project. This allowed the creation of the following scenarios: 
 
 
 6.1. Scenarios
@@ -89,4 +89,6 @@ Scenario 7 assumes that the policy landscape remains the same as business-as-usu
    :width:   700 px
 
    *Figure 6.7: Simplified visualisation of Scenario 7 for Bumbuna expansion in Sierra Leone*
+
+The structure of these scenarios, as well as the potential addition of Mini-Grids and Stand-Alone-Systems (SAS) can be seen in the reference energy system (RES) that can be found in subsection A7 of the Annex.  
 

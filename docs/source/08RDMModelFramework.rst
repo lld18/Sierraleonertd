@@ -1,2 +1,2 @@
-8. Robust Decision Making (RDM) Framework
+8. Robust Decision Making (RDM) Model Framework 
 =======================================

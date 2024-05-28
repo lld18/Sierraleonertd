@@ -22,6 +22,9 @@ Contents
    05OSeMOSYSModelDatabase
    06OSeMOSYSScenarios
    07UsingOSeMOSYS-SL
+   08RDMModelFramework
+   09RDMModelDatabase
+   10UsingRDM-SL
    08Annexes
    09References
 
